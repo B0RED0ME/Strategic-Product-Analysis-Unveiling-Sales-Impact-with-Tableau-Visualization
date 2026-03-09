@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container py-5 my-4 fade-in">
+    <div class="row layout-row align-items-center mb-5">
+        <div class="col-lg-6">
+            <span class="badge bg-secondary-subtle text-secondary rounded-pill px-3 py-2 mb-3 fw-semibold">About The Project</span>
+            <h1 class="display-4 fw-bold mb-4 text-dark">Redefining Retail Strategy</h1>
+            <p class="lead text-muted mb-4">The Strategic Product Positioning Analysis System is a comprehensive data science project designed to uncover the hidden patterns in retail behavior.</p>
+        </div>
+        <div class="col-lg-6">
+            <div class="card border-0 shadow-sm bg-light rounded-4 p-4">
+                <h4 class="fw-bold border-bottom pb-2 mb-3 text-primary">Problem Statement</h4>
+                <p class="text-secondary mb-0">Retail businesses struggle to optimize product placement effectively relying on intuition rather than data. Poor product visibility and sub-optimal store layouts lead to lower conversion rates and missed revenue opportunities.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-12">
+            <h3 class="fw-bold mb-4 border-start border-primary border-4 ps-3">Project Objectives</h3>
+            <div class="row g-4 mt-2">
+                <div class="col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-sm objective-card rounded-3">
+                        <div class="card-body d-flex flex-column">
+                            <i class="fa-solid fa-magnifying-glass text-primary fs-2 mb-3"></i>
+                            <h5 class="fw-bold">Analyze Relationships</h5>
+                            <p class="text-muted small mt-2">Correlate product placement with sales performance, conversion rates, and visibility scores.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-sm objective-card rounded-3">
+                        <div class="card-body d-flex flex-column">
+                            <i class="fa-solid fa-users text-success fs-2 mb-3"></i>
+                            <h5 class="fw-bold">Understand Consumers</h5>
+                            <p class="text-muted small mt-2">Map demographic data (age, gender) against purchasing behavior and store traffic.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-sm objective-card rounded-3">
+                        <div class="card-body d-flex flex-column">
+                            <i class="fa-regular fa-file-excel text-danger fs-2 mb-3"></i>
+                            <h5 class="fw-bold">Process Big Data</h5>
+                            <p class="text-muted small mt-2">Handle complex datasets, implement data cleaning, and generate custom calculated fields.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card h-100 border-0 shadow-sm objective-card rounded-3">
+                        <div class="card-body d-flex flex-column">
+                            <i class="fa-solid fa-laptop-code text-info fs-2 mb-3"></i>
+                            <h5 class="fw-bold">Interactive Platform</h5>
+                            <p class="text-muted small mt-2">Deliver insights through a modern Flask web application embedded with dynamic Tableau dashboards.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-5 pt-4 border-top">
+        <div class="col-md-12 text-center">
+            <h3 class="fw-bold mb-4">Technology Stack</h3>
+            <div class="d-flex flex-wrap justify-content-center gap-3">
+                <span class="badge rounded-pill bg-dark py-2 px-4 fs-6 fw-normal"><i class="fa-brands fa-python text-warning me-2"></i> Python</span>
+                <span class="badge rounded-pill bg-dark py-2 px-4 fs-6 fw-normal"><i class="fa-solid fa-pepper-hot text-danger me-2"></i> Flask</span>
+                <span class="badge rounded-pill bg-dark py-2 px-4 fs-6 fw-normal"><i class="fa-solid fa-chart-pie text-primary me-2"></i> Tableau</span>
+                <span class="badge rounded-pill bg-dark py-2 px-4 fs-6 fw-normal"><i class="fa-brands fa-html5 text-orange me-2"></i> HTML5/CSS3</span>
+                <span class="badge rounded-pill bg-dark py-2 px-4 fs-6 fw-normal"><i class="fa-brands fa-bootstrap text-purple me-2"></i> Bootstrap 5</span>
+                <span class="badge rounded-pill bg-dark py-2 px-4 fs-6 fw-normal"><i class="fa-solid fa-database text-info me-2"></i> SQLite/MySQL</span>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container-fluid py-4 min-vh-100 bg-light">
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-4 border-bottom px-4">
+        <h1 class="h2 fw-bold text-dark"><i class="fa-solid fa-chart-line text-primary me-2"></i> Strategic Analysis Dashboard</h1>
+        <div class="btn-toolbar mb-2 mb-md-0">
+            <button type="button" class="btn btn-sm btn-outline-primary shadow-sm" onclick="window.print()">
+                <i class="fa-solid fa-download me-1"></i> Export PDF
+            </button>
+        </div>
+    </div>
+
+    <!-- Dashboard Container -->
+    <div class="px-4">
+        
+        <!-- Row 1: Key Drivers -->
+        <h4 class="fw-bold mb-3 mt-4 text-secondary border-bottom pb-2">Key Value Drivers</h4>
+        <div class="row g-4 mb-4">
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-position"></div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-category"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Row 2: Customer & Environment -->
+        <h4 class="fw-bold mb-3 mt-5 text-secondary border-bottom pb-2">Environment & Demographics</h4>
+        <div class="row g-4 mb-4">
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-demographics"></div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-traffic"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Row 3: Elasticity & Tactics -->
+        <h4 class="fw-bold mb-3 mt-5 text-secondary border-bottom pb-2">Pricing & Tactics</h4>
+        <div class="row g-4 mb-4">
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-promo"></div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-price"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Row 4: Seasonality & Top Products -->
+        <h4 class="fw-bold mb-3 mt-5 text-secondary border-bottom pb-2">Performance & Seasonality</h4>
+        <div class="row g-4 mb-4">
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-seasonal"></div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card shadow-sm border-0 rounded-4 h-100">
+                    <div class="card-body p-2" id="chart-top10"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Plotly.js -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- Render Charts -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var charts = {{ charts | tojson }};
+        
+        Plotly.newPlot('chart-position', JSON.parse(charts.sales_by_position).data, JSON.parse(charts.sales_by_position).layout, {responsive: true});
+        Plotly.newPlot('chart-category', JSON.parse(charts.sales_by_category).data, JSON.parse(charts.sales_by_category).layout, {responsive: true});
+        Plotly.newPlot('chart-demographics', JSON.parse(charts.demographics).data, JSON.parse(charts.demographics).layout, {responsive: true});
+        Plotly.newPlot('chart-traffic', JSON.parse(charts.traffic_impact).data, JSON.parse(charts.traffic_impact).layout, {responsive: true});
+        Plotly.newPlot('chart-promo', JSON.parse(charts.promotion_impact).data, JSON.parse(charts.promotion_impact).layout, {responsive: true});
+        Plotly.newPlot('chart-price', JSON.parse(charts.price_vs_competitor).data, JSON.parse(charts.price_vs_competitor).layout, {responsive: true});
+        Plotly.newPlot('chart-seasonal', JSON.parse(charts.seasonal).data, JSON.parse(charts.seasonal).layout, {responsive: true});
+        Plotly.newPlot('chart-top10', JSON.parse(charts.top_10).data, JSON.parse(charts.top_10).layout, {responsive: true});
+    });
+</script>
+{% endblock %}

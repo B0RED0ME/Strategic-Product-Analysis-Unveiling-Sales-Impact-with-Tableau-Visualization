@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container-fluid py-5 my-4 px-5 fade-in">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <h1 class="display-6 fw-bold text-dark mb-1"><i class="fa-solid fa-table me-2 text-primary"></i> Data Overview</h1>
+            <p class="text-muted">Previewing top 100 rows of the processed retail dataset.</p>
+        </div>
+        <div class="text-end">
+            <span class="badge bg-success-subtle text-success border border-success px-3 py-2 fs-6 shadow-sm">
+                <i class="fa-solid fa-check-circle me-1"></i> {{ total_records }} Total Records
+            </span>
+            <a href="{{ url_for('dashboard') }}" class="btn btn-primary ms-3 shadow hover-scale">
+                View Dashboards <i class="fa-solid fa-arrow-right ms-1"></i>
+            </a>
+        </div>
+    </div>
+
+    <div class="card border-0 shadow-sm rounded-4 overflow-hidden">
+        <div class="card-body p-0">
+            <div class="table-responsive" style="max-height: 700px; overflow-y: auto;">
+                <table class="table table-hover table-striped mb-0 align-middle">
+                    <thead class="table-dark sticky-top">
+                        <tr>
+                            {% for col in columns %}
+                                <th scope="col" class="py-3 px-4 fw-semibold text-nowrap">{{ col }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody class="border-top-0">
+                        {% for row in data %}
+                            <tr>
+                                {% for item in row %}
+                                    <td class="py-3 px-4 text-nowrap">{{ item }}</td>
+                                {% endfor %}
+                            </tr>
+                        {% else %}
+                            <tr>
+                                <td colspan="100%" class="text-center py-5 text-muted">
+                                    <i class="fa-solid fa-database fs-1 mb-3 text-secondary opacity-50"></i>
+                                    <h4>No Data Available</h4>
+                                    <p>Please upload a dataset or run the data generator script.</p>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

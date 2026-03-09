@@ -1,0 +1,190 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container-fluid py-4 min-vh-100 bg-dark text-white">
+    <div class="d-flex justify-content-between align-items-center pt-3 pb-2 mb-4 border-bottom border-secondary px-4">
+        <h1 class="h3 fw-bold"><i class="fa-solid fa-book-open text-primary me-2"></i> Executive Data Story</h1>
+        <a href="{{ url_for('dashboard') }}" class="btn btn-sm btn-outline-light"><i class="fa-solid fa-arrow-left me-1"></i> Back to Dashboard</a>
+    </div>
+
+    <!-- Story Container with Tabs -->
+    <div class="px-4">
+        <div class="card bg-secondary bg-opacity-10 border border-secondary rounded-4 overflow-hidden shadow-lg h-100">
+            <div class="card-header bg-black bg-opacity-50 border-bottom border-secondary p-0">
+                <ul class="nav nav-tabs nav-fill border-0" id="storyTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active rounded-0 fw-bold border-0 text-white bg-transparent" id="scene1-tab" data-bs-toggle="tab" data-bs-target="#scene1" type="button" role="tab" aria-selected="true">
+                            1. Sales Overview
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link rounded-0 fw-bold border-0 text-white-50 bg-transparent" id="scene2-tab" data-bs-toggle="tab" data-bs-target="#scene2" type="button" role="tab" aria-selected="false">
+                            2. Placement Impact
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link rounded-0 fw-bold border-0 text-white-50 bg-transparent" id="scene3-tab" data-bs-toggle="tab" data-bs-target="#scene3" type="button" role="tab" aria-selected="false">
+                            3. Promotion Effectiveness
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link rounded-0 fw-bold border-0 text-white-50 bg-transparent" id="scene4-tab" data-bs-toggle="tab" data-bs-target="#scene4" type="button" role="tab" aria-selected="false">
+                            4. Demographics
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link rounded-0 fw-bold border-0 text-white-50 bg-transparent" id="scene5-tab" data-bs-toggle="tab" data-bs-target="#scene5" type="button" role="tab" aria-selected="false">
+                            5. Recommendations
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            
+            <div class="card-body p-4 tab-content" id="storyTabsContent">
+                
+                <!-- Scene 1 -->
+                <div class="tab-pane fade show active" id="scene1" role="tabpanel">
+                    <div class="row align-items-center">
+                        <div class="col-md-4">
+                            <h3 class="fw-bold text-primary mb-3">Overall Sales Health</h3>
+                            <p class="lead">Understanding our core product categories and top movers provides the baseline for strategic optimization.</p>
+                            <div class="alert alert-dark border-secondary mt-4">
+                                <i class="fa-solid fa-lightbulb text-warning me-2"></i> <strong>Takeaway:</strong> Focus inventory expansion on the categories claiming the largest slice of the pie.
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="bg-white rounded p-1">
+                                <div id="story-chart-category" style="height: 500px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scene 2 -->
+                <div class="tab-pane fade" id="scene2" role="tabpanel">
+                    <div class="row align-items-center">
+                        <div class="col-md-4">
+                            <h3 class="fw-bold text-success mb-3">The Power of Placement</h3>
+                            <p class="lead">Where a product sits in the store radically influences its velocity.</p>
+                            <div class="alert alert-dark border-secondary mt-4">
+                                <i class="fa-solid fa-layer-group text-success me-2"></i> <strong>Takeaway:</strong> End-caps drive substantially higher volume than standard aisles.
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="bg-white rounded p-1">
+                                <div id="story-chart-position" style="height: 500px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scene 3 -->
+                <div class="tab-pane fade" id="scene3" role="tabpanel">
+                    <div class="row align-items-center">
+                        <div class="col-md-4">
+                            <h3 class="fw-bold text-info mb-3">Promotion Effectiveness</h3>
+                            <p class="lead">Do active promotions actually yield higher volume, and at what cost?</p>
+                            <div class="alert alert-dark border-secondary mt-4">
+                                <i class="fa-solid fa-bullhorn text-info me-2"></i> <strong>Takeaway:</strong> Promoted items show clear lift. The key is applying promos selectively to high-margin goods.
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="bg-white rounded p-1">
+                                <div id="story-chart-promo" style="height: 500px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scene 4 -->
+                <div class="tab-pane fade" id="scene4" role="tabpanel">
+                    <div class="row align-items-center">
+                        <div class="col-md-4">
+                            <h3 class="fw-bold text-warning mb-3">Who is Buying?</h3>
+                            <p class="lead">Demographic analysis reveals which segments are responsible for the highest sales volume.</p>
+                            <div class="alert alert-dark border-secondary mt-4">
+                                <i class="fa-solid fa-users text-warning me-2"></i> <strong>Takeaway:</strong> Tailor store front aesthetics to the dominant purchasing demographic identified here.
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="bg-white rounded p-1">
+                                <div id="story-chart-demo" style="height: 500px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scene 5 -->
+                <div class="tab-pane fade" id="scene5" role="tabpanel">
+                    <div class="row align-items-center">
+                        <div class="col-md-4">
+                            <h3 class="fw-bold text-danger mb-3">Strategic Conclusion</h3>
+                            <p class="lead">Pricing elasticity is the final lever. Comparing our prices to competitors gives us maneuvering room.</p>
+                            <div class="alert alert-dark border-secondary mt-4">
+                                <i class="fa-solid fa-scale-balanced text-danger me-2"></i> <strong>Action:</strong> Review the insights page for definitive action items combining placement, price, and promotions.
+                            </div>
+                            <a href="{{ url_for('insights') }}" class="btn btn-outline-light w-100 mt-3">Go to Recommendations <i class="fa-solid fa-arrow-right ms-2"></i></a>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="bg-white rounded p-1">
+                                <div id="story-chart-price" style="height: 500px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Custom Tab Styling */
+    .nav-tabs .nav-link {
+        transition: all 0.3s ease;
+    }
+    .nav-tabs .nav-link.active {
+        background-color: var(--bs-primary) !important;
+        color: white !important;
+        border-bottom: 3px solid white !important;
+    }
+    .nav-tabs .nav-link:hover:not(.active) {
+        color: white !important;
+        background-color: rgba(255,255,255,0.1) !important;
+    }
+</style>
+
+<!-- Plotly.js -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- Render Charts -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var charts = {{ charts | tojson }};
+        
+        // Initial render for active tab
+        Plotly.newPlot('story-chart-category', JSON.parse(charts.sales_by_category).data, JSON.parse(charts.sales_by_category).layout, {responsive: true});
+        
+        // Re-render charts when their specific tab is shown (Plotly sometimes has issues rendering in hidden divs)
+        const tabEl2 = document.querySelector('#scene2-tab')
+        tabEl2.addEventListener('shown.bs.tab', event => {
+            Plotly.newPlot('story-chart-position', JSON.parse(charts.sales_by_position).data, JSON.parse(charts.sales_by_position).layout, {responsive: true});
+        })
+
+        const tabEl3 = document.querySelector('#scene3-tab')
+        tabEl3.addEventListener('shown.bs.tab', event => {
+            Plotly.newPlot('story-chart-promo', JSON.parse(charts.promotion_impact).data, JSON.parse(charts.promotion_impact).layout, {responsive: true});
+        })
+
+        const tabEl4 = document.querySelector('#scene4-tab')
+        tabEl4.addEventListener('shown.bs.tab', event => {
+            Plotly.newPlot('story-chart-demo', JSON.parse(charts.demographics).data, JSON.parse(charts.demographics).layout, {responsive: true});
+        })
+
+        const tabEl5 = document.querySelector('#scene5-tab')
+        tabEl5.addEventListener('shown.bs.tab', event => {
+             Plotly.newPlot('story-chart-price', JSON.parse(charts.price_vs_competitor).data, JSON.parse(charts.price_vs_competitor).layout, {responsive: true});
+        })
+    });
+</script>
+{% endblock %}

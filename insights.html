@@ -1,0 +1,106 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container py-5 my-4 fade-in">
+    <div class="text-center mb-5">
+        <span class="badge bg-warning-subtle text-warning rounded-pill px-3 py-2 mb-3 fw-semibold">Dynamic Data Insights</span>
+        <h1 class="display-5 fw-bold text-dark">DB-Driven Findings</h1>
+        <p class="lead text-muted max-w-700 mx-auto mt-3">These insights are automatically generated from your current SQLite database showing the relationships within your retail data.</p>
+    </div>
+
+    <!-- DB-Generated Insights Data -->
+    <div class="row g-4 mb-5">
+        <!-- Insight 1: Best Product Position -->
+        <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm rounded-4 insight-card pt-2">
+                <div class="card-body p-4 border-start border-4 border-primary">
+                    <small class="text-primary fw-bold text-uppercase d-block mb-2">Highest Sales Generator</small>
+                    <h4 class="fw-bold mb-3"><i class="fa-solid fa-store text-primary me-2"></i> Best Position: {{ position_sales['Product Position'] if position_sales else 'N/A' }}</h4>
+                    <p class="text-muted">The product position generating the absolute highest sales volume is the <strong>{{ position_sales['Product Position'] if position_sales else 'N/A' }}</strong> layout, driving a total sales volume of <strong>{{ "{:,}".format(position_sales['total_sales']) if position_sales else 0 }}</strong> units based on current data.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Insight 2: Top Demographic -->
+        <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm rounded-4 insight-card pt-2">
+                <div class="card-body p-4 border-start border-4 border-success">
+                    <small class="text-success fw-bold text-uppercase d-block mb-2">Primary Consumers</small>
+                    <h4 class="fw-bold mb-3"><i class="fa-solid fa-users text-success me-2"></i> Top Demo: {{ demo_sales['Consumer Demographics'] if demo_sales else 'N/A' }}</h4>
+                    <p class="text-muted">The demographic group responsible for the highest purchase volume across all categories is <strong>{{ demo_sales['Consumer Demographics'] if demo_sales else 'N/A' }}</strong> with a total volume of <strong>{{ "{:,}".format(demo_sales['total_sales']) if demo_sales else 0 }}</strong> sales units.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Insight 3: Promotion Impact -->
+        <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm rounded-4 insight-card pt-2">
+                <div class="card-body p-4 border-start border-4 border-warning">
+                    <small class="text-warning fw-bold text-uppercase d-block mb-2">Promotion Effectiveness</small>
+                    <h4 class="fw-bold mb-3"><i class="fa-solid fa-tags text-warning me-2"></i> Promotion Lift</h4>
+                    <p class="text-muted mb-2">Average Sales Volume based on active promotions:</p>
+                    <ul class="list-group list-group-flush mb-0">
+                        {% for row in promo_impact %}
+                        <li class="list-group-item bg-transparent d-flex justify-content-between align-items-center px-0 border-0">
+                            <span>Promoted: <strong>{{ 'Yes' if row['Promotion'] else 'No' }}</strong></span>
+                            <span class="badge bg-secondary rounded-pill fs-6">{{ "%.1f"|format(row['avg_sales']) }} units avg</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Insight 4: Category Performance -->
+        <div class="col-md-6">
+            <div class="card h-100 border-0 shadow-sm rounded-4 insight-card pt-2">
+                <div class="card-body p-4 border-start border-4 border-danger">
+                    <small class="text-danger fw-bold text-uppercase d-block mb-2">Top Performer</small>
+                    <h4 class="fw-bold mb-3"><i class="fa-solid fa-cart-shopping text-danger me-2"></i> Best Category: {{ category_sales['Product Category'] if category_sales else 'N/A' }}</h4>
+                    <p class="text-muted">Currently, the most successful product category overall is <strong>{{ category_sales['Product Category'] if category_sales else 'N/A' }}</strong>, yielding an impressive total sales volume of <strong>{{ "{:,}".format(category_sales['total_sales']) if category_sales else 0 }}</strong> units.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Insight 5: Price Difference Impact -->
+        <div class="col-12 mt-4">
+            <div class="card h-100 border-0 shadow-sm rounded-4 insight-card pt-2">
+                <div class="card-body p-4 border-start border-4 border-info">
+                    <small class="text-info fw-bold text-uppercase d-block mb-2">Competitive Pricing</small>
+                    <h4 class="fw-bold mb-3"><i class="fa-solid fa-money-bill-trend-up text-info me-2"></i> Price Difference Impact</h4>
+                    <p class="text-muted">How pricing relative to competitors affects average sales volume:</p>
+                    <div class="row align-items-center mt-3">
+                        {% for row in price_diff_impact %}
+                        <div class="col-md-6 mb-3 mb-md-0 text-center border-end">
+                            <h5 class="fw-bold text-dark mb-1">{{ row['price_status'] }}</h5>
+                            <span class="display-6 text-primary">{{ "%.1f"|format(row['avg_sales']) }}</span>
+                            <span class="text-muted small d-block">Avg. Sales Units</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recommendations Section Wrapper -->
+    <div class="card border-0 shadow rounded-4 bg-primary text-white overflow-hidden my-5 position-relative">
+        <div class="position-absolute opacity-10" style="top: -50px; right: -50px; font-size: 300px;">
+            <i class="fa-solid fa-lightbulb"></i>
+        </div>
+        <div class="card-body p-5 position-relative z-index-1">
+            <h2 class="fw-bold mb-4">Strategic Business Recommendations</h2>
+            <ol class="list-group list-group-numbered list-group-flush rounded-3 text-dark">
+                <li class="list-group-item p-4 fw-semibold shadow-sm mb-2 rounded border-0">Implement dynamic pricing or bundle offers for products placed in low-traffic aisles to offset lower visibility.</li>
+                <li class="list-group-item p-4 fw-semibold shadow-sm mb-2 rounded border-0">Rotate high-margin priority products into end-cap positions on a bi-weekly schedule to maximize the traffic multipliers identified in the DB analysis.</li>
+                <li class="list-group-item p-4 fw-semibold shadow-sm rounded border-0">Ensure high inventory levels for the top-performing demographic product lines during identified peak seasonal windows.</li>
+            </ol>
+            <div class="mt-4 pt-3 text-center">
+                <a href="{{ url_for('story') }}" class="btn btn-light btn-lg rounded-pill fw-bold text-primary px-5 hover-scale">
+                    View Full Data Story <i class="fa-solid fa-arrow-right ms-2"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

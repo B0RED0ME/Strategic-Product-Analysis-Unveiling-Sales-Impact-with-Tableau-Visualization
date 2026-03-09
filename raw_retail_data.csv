@@ -1,0 +1,1501 @@
+Product ID,Product Category,Product Position,Price,Promotion,Foot Traffic,Consumer Demographics,Seasonal,Competitor Price,Sales Volume
+PRD0001,Food,Front of Store,496.77,Yes,High,Young Adults,No,478.07,292
+PRD0002,Clothing,End-cap,120.91,Yes,High,Seniors,No,137.26,2533
+PRD0003,Clothing,Aisle,458.62,No,High,Families,Yes,490.54,481
+PRD0004,Food,End-cap,290.17,No,Low,Seniors,No,298.76,272
+PRD0005,Electronics,End-cap,290.85,Yes,Low,Young Adults,No,260.84,832
+PRD0006,Clothing,Aisle,387.41,Yes,Low,Young Adults,Yes,347.43,788
+PRD0007,Clothing,Aisle,410.1,No,Medium,College Students,Yes,355.73,707
+PRD0008,Clothing,End-cap,122.27,No,Medium,College Students,Yes,135.7,900
+PRD0009,Food,Aisle,438.75,Yes,High,Young Adults,No,452.06,1263
+PRD0010,Clothing,Front of Store,492.92,No,Medium,Seniors,No,523.69,828
+PRD0011,Food,Aisle,263.02,No,Medium,Families,No,225.19,613
+PRD0012,Food,Front of Store,209.71,Yes,Low,Seniors,Yes,239.27,651
+PRD0013,Food,Front of Store,141.2,Yes,High,Seniors,Yes,155.28,1327
+PRD0014,Clothing,Front of Store,,No,Low,Seniors,No,256.37,412
+PRD0015,Food,Aisle,297.88,No,Medium,Seniors,No,269.45,386
+PRD0016,Electronics,Aisle,368.93,Yes,Low,Families,No,333.89,416
+PRD0017,Clothing,End-cap,91.69,Yes,High,College Students,No,86.31,671
+PRD0018,Clothing,Aisle,340.98,No,Medium,College Students,No,343.51,533
+PRD0019,Clothing,Aisle,280.15,No,High,Families,No,274.43,527
+PRD0020,Clothing,Front of Store,28.21,No,Medium,Families,No,26.44,401
+PRD0021,Clothing,Aisle,175.49,Yes,Medium,Seniors,No,181.38,753
+PRD0022,Food,Aisle,323.44,No,Medium,Families,No,288.46,708
+PRD0023,Food,Front of Store,193.67,No,High,College Students,No,181.59,1147
+PRD0024,Clothing,Aisle,264.61,No,Low,Young Adults,No,254.0,185
+PRD0025,Food,Front of Store,349.67,Yes,High,Young Adults,No,345.06,822
+PRD0026,Clothing,Aisle,207.09,No,Medium,Young Adults,Yes,224.81,705
+PRD0027,Food,Aisle,153.44,Yes,High,Seniors,Yes,139.62,687
+PRD0028,Food,End-cap,96.02,Yes,High,College Students,No,96.43,1400
+PRD0029,Food,Aisle,271.27,,High,Young Adults,Yes,278.79,961
+PRD0030,Food,Front of Store,124.28,No,Medium,Seniors,No,107.37,425
+PRD0031,Electronics,Aisle,116.55,Yes,High,Young Adults,Yes,120.31,1106
+PRD0032,Clothing,End-cap,429.48,Yes,High,Families,No,387.03,818
+PRD0033,Electronics,Aisle,76.45,Yes,Low,Families,Yes,66.47,372
+PRD0034,Food,Aisle,234.2,No,Low,Seniors,No,265.74,421
+PRD0035,Electronics,Front of Store,33.52,Yes,High,Seniors,Yes,38.2,671
+PRD0036,Clothing,End-cap,209.28,No,High,Seniors,No,228.64,1307
+PRD0037,Clothing,Aisle,,No,Medium,Seniors,Yes,198.79,497
+PRD0038,Food,Aisle,267.35,No,Medium,Young Adults,Yes,235.08,582
+PRD0039,Electronics,Front of Store,197.27,Yes,Low,Seniors,Yes,208.17,640
+PRD0040,Electronics,Aisle,131.22,Yes,Low,Seniors,Yes,128.86,641
+PRD0041,Electronics,Aisle,168.48,No,Medium,Seniors,No,149.38,518
+PRD0042,Clothing,Aisle,44.14,No,Low,Families,Yes,44.08,304
+PRD0043,Clothing,End-cap,227.64,No,Medium,College Students,Yes,195.84,725
+PRD0044,Electronics,Aisle,188.68,No,Medium,Families,No,211.85,639
+PRD0045,Clothing,Front of Store,270.14,No,High,Families,Yes,250.59,913
+PRD0046,Clothing,End-cap,415.56,Yes,High,Families,No,435.82,1519
+PRD0047,Electronics,Aisle,30.51,Yes,Low,College Students,No,28.79,359
+PRD0048,Clothing,Aisle,191.7,Yes,High,College Students,No,192.85,859
+PRD0049,Electronics,End-cap,,Yes,High,Families,No,308.73,869
+PRD0050,Electronics,Aisle,24.58,No,Medium,Seniors,Yes,22.26,762
+PRD0051,Food,Aisle,41.03,No,Low,Families,Yes,46.81,241
+PRD0052,Electronics,Front of Store,403.3,No,High,Families,No,436.59,784
+PRD0053,Clothing,End-cap,295.85,,Low,Families,Yes,334.86,422
+PRD0054,Food,Front of Store,337.37,Yes,Medium,College Students,No,377.33,1088
+PRD0055,Electronics,Aisle,112.42,Yes,High,Families,No,115.72,977
+PRD0056,Food,Front of Store,108.4,Yes,Medium,Young Adults,No,122.12,1179
+PRD0057,Clothing,Aisle,453.98,No,High,Families,No,397.94,598
+PRD0058,Electronics,End-cap,155.08,Yes,Low,Families,No,140.94,690
+PRD0059,Clothing,End-cap,454.95,No,Medium,Young Adults,Yes,392.88,524
+PRD0060,Food,End-cap,109.84,,Medium,Families,No,104.08,1495
+PRD0061,Electronics,Front of Store,,No,Low,Families,Yes,95.75,270
+PRD0062,Food,Front of Store,372.03,Yes,Medium,Families,No,346.51,852
+PRD0063,Food,Aisle,374.71,Yes,Low,Seniors,Yes,411.66,595
+PRD0064,Electronics,End-cap,378.39,,Medium,Seniors,Yes,362.13,1022
+PRD0065,Food,Front of Store,457.65,No,Medium,Seniors,Yes,427.57,566
+PRD0066,Clothing,Aisle,349.34,Yes,Medium,Young Adults,No,353.81,687
+PRD0067,Food,Front of Store,353.37,No,Low,Families,Yes,315.3,425
+PRD0068,Clothing,Aisle,201.33,Yes,High,Families,No,219.58,1025
+PRD0069,Clothing,Front of Store,123.47,No,Medium,Seniors,No,107.71,773
+PRD0070,Food,Front of Store,164.2,Yes,Low,Young Adults,No,188.18,998
+PRD0071,Clothing,Front of Store,145.11,No,Low,Young Adults,Yes,156.96,384
+PRD0072,Electronics,End-cap,235.79,Yes,Medium,Young Adults,No,214.48,536
+PRD0073,Clothing,End-cap,326.12,Yes,Low,Seniors,Yes,277.74,620
+PRD0074,Clothing,Front of Store,157.67,No,Low,Seniors,No,172.59,819
+PRD0075,Clothing,Aisle,183.02,No,Low,Families,No,194.38,292
+PRD0076,Electronics,Aisle,441.99,Yes,Medium,Families,Yes,472.36,1066
+PRD0077,Electronics,End-cap,235.67,No,High,Families,No,254.85,1736
+PRD0078,Electronics,End-cap,402.39,Yes,Low,Seniors,No,350.97,531
+PRD0079,Food,End-cap,362.59,Yes,Medium,Seniors,Yes,347.19,1065
+PRD0080,Electronics,Front of Store,382.01,No,High,Young Adults,No,337.99,1339
+PRD0081,Clothing,Aisle,163.52,No,Low,Seniors,Yes,181.33,341
+PRD0082,Electronics,End-cap,,Yes,Low,Families,Yes,109.45,657
+PRD0083,Electronics,Front of Store,159.9,Yes,Medium,Families,No,151.79,643
+PRD0084,Clothing,End-cap,27.63,Yes,Medium,Seniors,Yes,24.01,632
+PRD0085,Food,Aisle,432.72,Yes,High,College Students,No,408.18,785
+PRD0086,Electronics,Aisle,371.92,No,High,Young Adults,No,352.41,474
+PRD0087,Food,End-cap,13.03,No,Medium,Seniors,No,13.93,777
+PRD0088,Food,Front of Store,278.89,No,Medium,College Students,Yes,290.4,507
+PRD0089,Food,Aisle,294.1,No,Low,Families,No,328.26,412
+PRD0090,Clothing,Aisle,361.41,Yes,Low,Seniors,No,358.4,242
+PRD0091,Food,Aisle,151.12,No,High,Young Adults,No,133.87,824
+PRD0092,Food,End-cap,102.11,No,High,College Students,No,108.64,1443
+PRD0093,Clothing,Front of Store,118.86,No,Low,College Students,No,128.16,185
+PRD0094,Food,Front of Store,287.05,No,Low,Seniors,Yes,292.33,513
+PRD0095,Food,Front of Store,126.64,No,High,Seniors,Yes,136.93,1354
+PRD0096,Clothing,Front of Store,277.57,Yes,Low,College Students,Yes,277.05,347
+PRD0097,Clothing,Front of Store,,Yes,Medium,Families,Yes,475.23,1288
+PRD0098,Electronics,End-cap,172.09,No,Medium,Young Adults,No,168.35,787
+PRD0099,Electronics,End-cap,382.86,No,High,Families,No,328.35,827
+PRD0100,Electronics,Front of Store,246.87,No,High,College Students,No,217.83,884
+PRD0101,Food,Front of Store,363.16,Yes,Low,Families,Yes,312.11,637
+PRD0102,Food,End-cap,371.1,Yes,Low,Seniors,No,386.29,716
+PRD0103,Food,End-cap,233.11,Yes,Medium,College Students,Yes,220.13,1057
+PRD0104,Clothing,Front of Store,367.72,,Low,Young Adults,No,368.67,334
+PRD0105,Food,Front of Store,179.33,No,High,Young Adults,Yes,201.26,1040
+PRD0106,Electronics,End-cap,74.28,Yes,High,Families,No,68.69,786
+PRD0107,Clothing,Aisle,275.54,Yes,Low,Families,Yes,268.13,439
+PRD0108,Clothing,Front of Store,96.1,No,Medium,Young Adults,No,103.47,481
+PRD0109,Clothing,Aisle,445.24,Yes,Medium,College Students,No,409.02,506
+PRD0110,Electronics,Front of Store,495.21,No,Low,Families,No,432.36,575
+PRD0111,Electronics,Front of Store,478.83,No,Low,College Students,Yes,448.63,557
+PRD0112,Electronics,Front of Store,264.35,No,High,Young Adults,Yes,237.48,1064
+PRD0113,Clothing,Front of Store,420.34,No,High,College Students,Yes,474.53,665
+PRD0114,Clothing,Aisle,41.79,No,High,Young Adults,Yes,45.65,746
+PRD0115,Food,End-cap,409.91,,Medium,College Students,Yes,426.32,1365
+PRD0116,Food,End-cap,29.01,Yes,Low,Seniors,No,32.24,730
+PRD0117,Electronics,Aisle,8.16,Yes,High,College Students,Yes,8.9,1818
+PRD0118,Clothing,End-cap,73.06,No,Medium,Young Adults,Yes,66.19,782
+PRD0119,Food,End-cap,317.2,Yes,High,College Students,Yes,354.56,1588
+PRD0120,Electronics,End-cap,38.64,Yes,Low,Seniors,Yes,39.1,635
+PRD0121,Electronics,End-cap,79.76,Yes,Medium,Families,No,87.12,1041
+PRD0122,Food,End-cap,113.27,Yes,Low,College Students,No,126.73,668
+PRD0123,Electronics,Front of Store,230.72,No,Low,Young Adults,Yes,218.12,509
+PRD0124,Clothing,Aisle,34.92,Yes,Medium,Seniors,Yes,30.83,836
+PRD0125,Electronics,End-cap,320.68,No,Medium,Families,No,294.51,534
+PRD0126,Clothing,End-cap,,No,High,College Students,Yes,457.06,630
+PRD0127,Clothing,End-cap,456.81,Yes,Medium,Families,No,500.39,449
+PRD0128,Food,Front of Store,331.35,Yes,Medium,College Students,Yes,367.21,988
+PRD0129,Food,End-cap,12.79,No,High,College Students,No,10.9,702
+PRD0130,Food,End-cap,268.45,Yes,Low,Families,Yes,269.32,248
+PRD0131,Electronics,Aisle,208.61,Yes,Medium,Families,Yes,203.44,725
+PRD0132,Food,Front of Store,13.28,No,Low,Seniors,No,12.17,734
+PRD0133,Food,End-cap,362.49,No,Low,College Students,No,321.15,489
+PRD0134,Electronics,Aisle,270.19,Yes,Medium,College Students,No,257.03,813
+PRD0135,Food,Aisle,146.91,Yes,Low,Families,Yes,166.43,512
+PRD0136,Electronics,Aisle,253.6,No,Low,Seniors,Yes,240.15,339
+PRD0137,Electronics,Aisle,350.44,Yes,High,Families,Yes,352.42,1368
+PRD0138,Clothing,End-cap,218.13,No,High,Young Adults,No,231.42,1054
+PRD0139,Clothing,Aisle,470.16,Yes,High,Seniors,No,450.93,1053
+PRD0140,Food,Front of Store,93.74,No,Low,Young Adults,Yes,107.01,506
+PRD0141,Electronics,Front of Store,459.43,No,Low,Seniors,No,523.17,369
+PRD0142,Clothing,End-cap,264.57,No,High,College Students,Yes,244.87,1362
+PRD0143,Clothing,Aisle,124.28,No,Medium,Families,Yes,124.18,473
+PRD0144,Clothing,Front of Store,311.79,Yes,High,Seniors,Yes,293.16,904
+PRD0145,Clothing,Aisle,129.95,Yes,Medium,College Students,No,121.56,754
+PRD0146,Food,Front of Store,180.45,No,Medium,College Students,No,155.38,438
+PRD0147,Clothing,Front of Store,398.49,Yes,Low,Young Adults,No,411.59,605
+PRD0148,Food,Front of Store,44.11,No,High,Young Adults,Yes,44.15,987
+PRD0149,Electronics,End-cap,479.85,Yes,Medium,College Students,No,415.28,1206
+PRD0150,Food,Front of Store,232.2,No,High,Young Adults,Yes,216.78,1028
+PRD0151,Clothing,Aisle,125.39,Yes,Low,College Students,No,140.75,496
+PRD0152,Electronics,End-cap,350.13,Yes,Low,College Students,No,322.77,793
+PRD0153,Electronics,End-cap,,No,Low,College Students,Yes,137.14,694
+PRD0154,Food,Front of Store,414.89,No,Medium,Young Adults,Yes,413.58,700
+PRD0155,Electronics,End-cap,44.91,Yes,High,Seniors,Yes,51.45,1506
+PRD0156,Food,Front of Store,495.88,Yes,Medium,College Students,No,457.51,473
+PRD0157,Electronics,Aisle,326.7,Yes,High,Families,Yes,343.57,729
+PRD0158,Food,End-cap,20.68,Yes,Medium,Families,No,22.3,909
+PRD0159,Clothing,Front of Store,205.61,Yes,Low,Young Adults,Yes,189.43,446
+PRD0160,Food,End-cap,191.7,No,Low,College Students,No,204.82,508
+PRD0161,Food,End-cap,240.62,Yes,Low,College Students,No,231.08,647
+PRD0162,Clothing,Aisle,320.19,No,Medium,Seniors,No,332.9,637
+PRD0163,Food,Front of Store,352.91,No,High,Seniors,No,367.05,969
+PRD0164,Food,Front of Store,45.93,No,Low,Families,Yes,46.42,529
+PRD0165,Electronics,Aisle,423.44,Yes,Low,Families,Yes,371.39,463
+PRD0166,Food,Aisle,324.23,Yes,Medium,Families,No,356.84,291
+PRD0167,Electronics,Front of Store,168.98,No,Low,Families,No,159.89,301
+PRD0168,Clothing,End-cap,,Yes,Low,College Students,No,442.81,609
+PRD0169,Electronics,Aisle,487.05,No,Medium,Families,No,419.95,318
+PRD0170,Electronics,Aisle,447.92,No,Medium,Seniors,No,460.13,648
+PRD0171,Clothing,End-cap,459.98,Yes,Low,College Students,Yes,484.48,1022
+PRD0172,Electronics,Front of Store,118.73,Yes,High,Young Adults,No,101.51,1597
+PRD0173,Clothing,End-cap,451.13,Yes,High,Seniors,Yes,452.77,1405
+PRD0174,Food,Aisle,347.68,No,High,Young Adults,Yes,319.15,1085
+PRD0175,Food,End-cap,285.56,Yes,High,Families,No,298.0,1568
+PRD0176,Electronics,Front of Store,,No,High,Families,No,125.59,808
+PRD0177,Food,Aisle,462.46,No,High,College Students,No,488.95,673
+PRD0178,Clothing,End-cap,343.79,No,Medium,College Students,Yes,332.11,636
+PRD0179,Food,Front of Store,143.78,Yes,High,Seniors,Yes,162.62,1137
+PRD0180,Clothing,Front of Store,273.8,No,Medium,Young Adults,No,244.03,630
+PRD0181,Food,Front of Store,330.76,Yes,Medium,College Students,Yes,314.99,817
+PRD0182,Electronics,Front of Store,93.78,Yes,Medium,College Students,Yes,82.91,780
+PRD0183,Food,Front of Store,425.96,Yes,Low,Young Adults,Yes,480.23,679
+PRD0184,Food,Front of Store,12.75,Yes,High,Young Adults,No,14.19,1746
+PRD0185,Food,Aisle,107.54,No,High,Families,No,99.73,963
+PRD0186,Clothing,Front of Store,76.37,No,High,Families,Yes,80.04,548
+PRD0187,Clothing,Front of Store,411.24,Yes,Low,College Students,Yes,450.38,140
+PRD0188,Electronics,Front of Store,411.35,No,Medium,Families,No,418.16,844
+PRD0189,Clothing,End-cap,464.79,Yes,High,College Students,No,468.92,885
+PRD0190,Food,Aisle,153.14,Yes,Low,College Students,Yes,141.28,424
+PRD0191,Food,Aisle,284.16,No,Low,Young Adults,No,249.47,227
+PRD0192,Clothing,End-cap,285.51,No,High,College Students,Yes,319.53,530
+PRD0193,Food,Front of Store,425.47,No,Medium,College Students,Yes,476.58,767
+PRD0194,Electronics,End-cap,340.13,No,Low,College Students,No,353.71,661
+PRD0195,Electronics,End-cap,272.58,Yes,Medium,Families,No,259.42,752
+PRD0196,Clothing,End-cap,195.0,No,Medium,Families,No,186.18,155
+PRD0197,Clothing,Aisle,371.17,Yes,High,Seniors,Yes,396.33,896
+PRD0198,Electronics,Aisle,396.3,Yes,High,Young Adults,No,443.51,1198
+PRD0199,Electronics,Aisle,346.21,No,High,Seniors,Yes,386.41,458
+PRD0200,Clothing,Front of Store,43.82,No,Medium,College Students,Yes,47.5,696
+PRD0201,Clothing,Front of Store,374.0,Yes,Medium,College Students,No,389.94,854
+PRD0202,Clothing,End-cap,176.2,Yes,Low,Seniors,Yes,154.22,747
+PRD0203,Food,Aisle,53.35,Yes,Low,Young Adults,Yes,47.93,471
+PRD0204,Clothing,Aisle,119.91,No,Low,College Students,No,134.25,272
+PRD0205,Clothing,Front of Store,42.63,No,High,College Students,No,43.99,1345
+PRD0206,Food,Front of Store,304.56,Yes,Medium,Families,No,259.72,742
+PRD0207,Electronics,Aisle,308.86,No,Medium,College Students,No,271.93,495
+PRD0208,Clothing,Aisle,299.83,,Medium,College Students,Yes,314.54,396
+PRD0209,Food,Front of Store,484.62,No,Low,College Students,No,412.66,364
+PRD0210,Clothing,Front of Store,166.56,Yes,High,Seniors,Yes,149.61,859
+PRD0211,Clothing,Aisle,318.89,No,High,Families,Yes,323.55,782
+PRD0212,Food,End-cap,392.86,No,Medium,College Students,No,415.48,1165
+PRD0213,Electronics,End-cap,228.02,No,Medium,Young Adults,Yes,238.42,453
+PRD0214,Food,End-cap,117.93,Yes,Medium,College Students,Yes,108.17,469
+PRD0215,Clothing,End-cap,278.75,No,Medium,College Students,No,296.49,1109
+PRD0216,Electronics,Aisle,190.84,Yes,Low,Young Adults,No,175.8,426
+PRD0217,Food,End-cap,96.94,No,Low,Young Adults,No,91.86,391
+PRD0218,Food,End-cap,295.01,Yes,Medium,Young Adults,No,316.83,1313
+PRD0219,Electronics,Front of Store,193.14,Yes,Low,Families,Yes,201.81,491
+PRD0220,Clothing,End-cap,387.22,Yes,Medium,Families,Yes,427.79,1549
+PRD0221,Food,Front of Store,151.21,Yes,Medium,Families,Yes,158.36,1032
+PRD0222,Food,Front of Store,126.99,Yes,Medium,Seniors,No,129.59,732
+PRD0223,Food,Aisle,,Yes,Low,Young Adults,Yes,36.34,749
+PRD0224,Clothing,Aisle,137.65,Yes,Medium,Young Adults,No,132.19,531
+PRD0225,Food,Aisle,193.1,,Medium,Families,No,179.5,611
+PRD0226,Electronics,Aisle,393.03,Yes,High,Young Adults,Yes,362.84,1062
+PRD0227,Electronics,Front of Store,81.37,Yes,High,College Students,Yes,92.92,1789
+PRD0228,Food,Aisle,197.86,No,Low,Families,Yes,191.51,513
+PRD0229,Food,Front of Store,,Yes,High,College Students,Yes,205.14,1299
+PRD0230,Electronics,Aisle,50.3,Yes,Low,Young Adults,Yes,52.28,387
+PRD0231,Electronics,End-cap,471.77,Yes,Medium,Young Adults,No,513.49,1139
+PRD0232,Food,End-cap,225.14,No,High,College Students,Yes,225.32,920
+PRD0233,Electronics,Front of Store,381.87,No,Low,Young Adults,No,390.68,741
+PRD0234,Clothing,End-cap,,Yes,Medium,Families,Yes,55.48,947
+PRD0235,Clothing,End-cap,48.21,Yes,High,Seniors,Yes,43.8,1215
+PRD0236,Clothing,Front of Store,218.33,Yes,High,Seniors,Yes,232.9,1358
+PRD0237,Clothing,End-cap,280.71,Yes,Low,Seniors,No,262.25,379
+PRD0238,Electronics,End-cap,258.66,Yes,Medium,Young Adults,Yes,221.75,644
+PRD0239,Clothing,End-cap,56.13,No,High,Families,No,58.58,1570
+PRD0240,Food,Aisle,49.36,,Medium,Families,No,44.58,521
+PRD0241,Food,Front of Store,279.34,Yes,Medium,Young Adults,Yes,316.25,588
+PRD0242,Clothing,Aisle,300.48,No,High,Families,Yes,341.4,957
+PRD0243,Food,End-cap,393.3,No,Medium,Young Adults,Yes,442.25,1043
+PRD0244,Clothing,End-cap,432.54,No,Low,Seniors,Yes,415.69,595
+PRD0245,Clothing,Aisle,11.11,No,High,Families,No,9.5,974
+PRD0246,Clothing,End-cap,209.84,No,Low,Young Adults,Yes,236.8,416
+PRD0247,Food,Front of Store,390.69,No,High,Families,Yes,382.27,516
+PRD0248,Food,Front of Store,363.8,No,Low,College Students,No,414.73,670
+PRD0249,Clothing,Front of Store,281.97,Yes,Medium,College Students,No,321.19,774
+PRD0250,Clothing,End-cap,496.4,No,Medium,College Students,No,548.97,712
+PRD0251,Clothing,Front of Store,125.16,Yes,Low,Young Adults,Yes,117.44,763
+PRD0252,Clothing,Front of Store,262.95,Yes,Medium,Families,Yes,253.89,910
+PRD0253,Electronics,End-cap,344.23,Yes,Low,College Students,Yes,380.49,796
+PRD0254,Clothing,Aisle,88.9,Yes,High,Families,No,84.02,1608
+PRD0255,Food,Aisle,138.11,Yes,High,Young Adults,Yes,124.42,786
+PRD0256,Clothing,End-cap,137.86,No,Medium,College Students,Yes,140.21,984
+PRD0257,Electronics,Front of Store,77.24,Yes,Medium,College Students,No,87.35,872
+PRD0258,Food,Aisle,87.77,No,High,Young Adults,Yes,92.93,891
+PRD0259,Electronics,Aisle,141.6,No,Medium,Families,Yes,144.58,802
+PRD0260,Clothing,Aisle,153.38,Yes,High,College Students,Yes,134.84,1123
+PRD0261,Food,End-cap,392.42,,High,Families,Yes,405.96,1341
+PRD0262,Clothing,Aisle,183.76,No,Low,Seniors,No,210.78,508
+PRD0263,Food,Aisle,472.39,,Low,Young Adults,Yes,421.38,311
+PRD0264,Food,End-cap,361.85,No,High,College Students,Yes,363.84,864
+PRD0265,Food,End-cap,,Yes,High,Young Adults,No,278.77,1030
+PRD0266,Electronics,End-cap,310.25,No,Low,Seniors,Yes,332.66,221
+PRD0267,Clothing,Aisle,231.64,Yes,High,Young Adults,Yes,245.33,1734
+PRD0268,Electronics,Aisle,72.07,Yes,High,Young Adults,Yes,76.45,717
+PRD0269,Electronics,End-cap,8.35,Yes,High,College Students,Yes,8.0,1274
+PRD0270,Clothing,Front of Store,200.87,No,Medium,Seniors,Yes,188.43,550
+PRD0271,Clothing,End-cap,421.6,No,Low,College Students,Yes,460.73,588
+PRD0272,Clothing,Aisle,193.05,Yes,High,Families,Yes,211.01,1334
+PRD0273,Food,Aisle,431.79,No,High,Seniors,No,479.34,1037
+PRD0274,Electronics,End-cap,222.91,No,Medium,Young Adults,Yes,250.54,635
+PRD0275,Electronics,Front of Store,218.16,Yes,Medium,Young Adults,No,218.9,814
+PRD0276,Electronics,Front of Store,412.65,Yes,High,Families,No,412.84,1396
+PRD0277,Electronics,Aisle,327.26,Yes,Low,Young Adults,Yes,356.55,463
+PRD0278,Electronics,Front of Store,299.22,Yes,Medium,College Students,Yes,312.68,1271
+PRD0279,Food,Front of Store,153.72,Yes,Low,Seniors,No,163.03,689
+PRD0280,Clothing,Front of Store,303.59,,Medium,Families,No,330.53,805
+PRD0281,Food,End-cap,349.17,Yes,Medium,Families,Yes,390.02,1200
+PRD0282,Food,Aisle,,No,Low,Young Adults,Yes,230.34,473
+PRD0283,Food,End-cap,92.93,Yes,High,Young Adults,Yes,89.46,1439
+PRD0284,Clothing,Front of Store,202.13,No,Low,Families,Yes,177.51,256
+PRD0285,Clothing,Aisle,162.97,Yes,High,College Students,No,166.8,1201
+PRD0286,Electronics,End-cap,368.76,No,High,College Students,No,317.42,844
+PRD0287,Food,Aisle,318.29,Yes,Medium,Seniors,Yes,315.01,546
+PRD0288,Electronics,End-cap,484.04,Yes,Medium,Young Adults,Yes,490.23,1177
+PRD0289,Clothing,Aisle,392.08,Yes,Medium,Families,No,366.97,891
+PRD0290,Clothing,End-cap,166.31,,High,Young Adults,No,170.84,1511
+PRD0291,Clothing,Front of Store,143.75,No,High,Young Adults,Yes,123.5,983
+PRD0292,Clothing,End-cap,,Yes,Low,College Students,No,339.31,962
+PRD0293,Food,Front of Store,185.68,Yes,Low,Young Adults,Yes,203.65,643
+PRD0294,Electronics,End-cap,466.37,Yes,Low,Seniors,No,446.81,1134
+PRD0295,Clothing,Front of Store,103.9,Yes,Low,College Students,Yes,92.28,638
+PRD0296,Electronics,Front of Store,498.65,No,High,College Students,Yes,501.98,467
+PRD0297,Clothing,End-cap,94.06,Yes,High,Young Adults,No,101.68,1840
+PRD0298,Electronics,End-cap,384.97,No,Low,College Students,No,352.15,546
+PRD0299,Electronics,Aisle,18.32,Yes,Low,Seniors,Yes,19.0,694
+PRD0300,Clothing,End-cap,364.97,No,High,Families,Yes,319.57,1262
+PRD0301,Clothing,Aisle,471.77,Yes,Low,Seniors,Yes,408.32,436
+PRD0302,Electronics,End-cap,108.78,Yes,Medium,College Students,No,109.8,633
+PRD0303,Food,Aisle,399.85,No,High,Seniors,No,404.72,773
+PRD0304,Clothing,Front of Store,416.48,No,Medium,College Students,No,433.65,491
+PRD0305,Clothing,End-cap,39.23,No,Medium,Young Adults,Yes,41.89,635
+PRD0306,Food,Front of Store,424.66,Yes,High,College Students,Yes,485.28,1514
+PRD0307,Food,End-cap,398.55,Yes,High,Families,No,400.5,2253
+PRD0308,Clothing,Aisle,338.12,Yes,Medium,Seniors,Yes,320.16,726
+PRD0309,Clothing,End-cap,73.89,No,Low,Young Adults,No,80.43,345
+PRD0310,Clothing,Aisle,154.9,Yes,Low,College Students,No,144.25,515
+PRD0311,Clothing,Aisle,130.08,Yes,High,Seniors,Yes,127.7,1325
+PRD0312,Electronics,End-cap,81.3,No,Medium,Seniors,No,71.02,571
+PRD0313,Electronics,Front of Store,214.45,No,Medium,Seniors,Yes,183.91,575
+PRD0314,Electronics,End-cap,191.61,No,High,Young Adults,No,218.2,1160
+PRD0315,Clothing,Front of Store,227.29,No,High,College Students,No,250.2,756
+PRD0316,Electronics,Aisle,300.98,No,Medium,College Students,Yes,318.68,656
+PRD0317,Clothing,End-cap,293.21,,Medium,Young Adults,No,285.2,876
+PRD0318,Clothing,End-cap,269.51,No,High,Families,Yes,243.09,1182
+PRD0319,Electronics,Front of Store,,No,Medium,Seniors,No,414.5,440
+PRD0320,Clothing,End-cap,435.47,No,Low,College Students,No,402.84,425
+PRD0321,Electronics,Aisle,212.06,Yes,High,Young Adults,Yes,215.19,1304
+PRD0322,Electronics,End-cap,23.2,Yes,Low,Young Adults,Yes,24.69,622
+PRD0323,Electronics,Aisle,484.37,No,High,Seniors,Yes,507.65,1252
+PRD0324,Electronics,Aisle,352.31,Yes,High,Young Adults,Yes,329.05,858
+PRD0325,Electronics,Front of Store,407.09,Yes,Medium,Seniors,Yes,462.64,915
+PRD0326,Food,Front of Store,298.94,No,Low,College Students,No,320.28,591
+PRD0327,Food,Aisle,457.63,No,Medium,Seniors,Yes,465.09,315
+PRD0328,Food,Front of Store,59.14,,Low,Families,No,61.12,217
+PRD0329,Food,Front of Store,127.87,Yes,Medium,Seniors,Yes,124.79,422
+PRD0330,Food,Aisle,334.02,No,High,Seniors,Yes,308.74,1034
+PRD0331,Electronics,End-cap,87.34,No,Low,Families,Yes,83.57,408
+PRD0332,Clothing,End-cap,308.28,No,Low,Seniors,Yes,332.13,952
+PRD0333,Clothing,Front of Store,283.79,No,High,Young Adults,No,242.45,747
+PRD0334,Electronics,Front of Store,324.29,No,High,College Students,No,286.94,949
+PRD0335,Clothing,Aisle,325.14,No,Medium,College Students,No,280.86,731
+PRD0336,Clothing,Aisle,483.57,No,Low,College Students,Yes,416.94,560
+PRD0337,Food,Aisle,169.14,Yes,Medium,College Students,Yes,187.18,1157
+PRD0338,Food,Aisle,399.13,Yes,Low,Families,No,423.52,681
+PRD0339,Food,End-cap,57.44,Yes,Low,Seniors,Yes,56.99,832
+PRD0340,Clothing,Aisle,53.81,No,Medium,Seniors,Yes,47.32,588
+PRD0341,Food,Aisle,114.89,Yes,High,Young Adults,Yes,114.6,1202
+PRD0342,Electronics,Front of Store,374.69,Yes,High,Seniors,No,371.71,976
+PRD0343,Clothing,Aisle,281.21,No,Medium,Families,No,253.64,377
+PRD0344,Clothing,Front of Store,345.39,Yes,High,Young Adults,Yes,338.54,1168
+PRD0345,Food,Aisle,114.41,Yes,Medium,Young Adults,No,110.93,616
+PRD0346,Electronics,Aisle,190.19,Yes,High,Seniors,No,196.8,926
+PRD0347,Food,Front of Store,,Yes,Medium,Families,Yes,243.71,1037
+PRD0348,Food,End-cap,341.38,No,Medium,College Students,No,294.81,900
+PRD0349,Clothing,End-cap,346.77,Yes,Medium,Families,No,333.73,934
+PRD0350,Clothing,Front of Store,79.62,Yes,Medium,Families,Yes,82.63,1238
+PRD0351,Food,Front of Store,498.86,No,High,Families,Yes,499.33,650
+PRD0352,Clothing,End-cap,243.97,No,Low,Young Adults,No,270.06,507
+PRD0353,Clothing,Front of Store,151.24,Yes,High,Young Adults,No,158.44,1010
+PRD0354,Clothing,Front of Store,460.67,,Low,Families,Yes,414.09,184
+PRD0355,Food,Front of Store,47.5,No,Medium,College Students,Yes,41.38,585
+PRD0356,Clothing,Front of Store,416.5,Yes,Low,Young Adults,Yes,434.3,578
+PRD0357,Food,Front of Store,366.42,No,Low,Families,Yes,314.37,610
+PRD0358,Clothing,End-cap,177.42,Yes,High,College Students,Yes,181.99,1785
+PRD0359,Electronics,Front of Store,174.82,No,Medium,Seniors,No,197.91,457
+PRD0360,Clothing,End-cap,393.21,Yes,Medium,Seniors,No,402.11,1557
+PRD0361,Food,Aisle,262.95,No,Medium,Families,Yes,254.13,683
+PRD0362,Clothing,End-cap,177.41,No,Low,Families,No,185.04,633
+PRD0363,Food,Aisle,53.32,Yes,Medium,Young Adults,Yes,52.65,605
+PRD0364,Food,End-cap,362.39,Yes,High,College Students,Yes,367.35,1069
+PRD0365,Clothing,End-cap,228.96,Yes,Low,Families,No,259.28,622
+PRD0366,Food,Front of Store,38.25,Yes,Low,Seniors,Yes,36.94,724
+PRD0367,Clothing,End-cap,27.12,No,Low,Families,Yes,30.87,843
+PRD0368,Electronics,End-cap,356.84,Yes,Low,Young Adults,Yes,400.23,1025
+PRD0369,Food,Front of Store,16.18,Yes,High,Young Adults,Yes,14.7,998
+PRD0370,Food,Aisle,174.82,,Low,College Students,Yes,152.23,302
+PRD0371,Food,End-cap,59.13,No,Low,Seniors,Yes,52.05,510
+PRD0372,Food,Front of Store,401.02,No,High,College Students,Yes,343.06,422
+PRD0373,Electronics,Aisle,465.31,Yes,Medium,Seniors,Yes,408.7,713
+PRD0374,Electronics,End-cap,371.54,Yes,High,Seniors,Yes,391.94,1435
+PRD0375,Clothing,End-cap,260.42,No,Medium,Families,Yes,226.92,602
+PRD0376,Food,End-cap,278.2,Yes,Low,Seniors,Yes,263.09,332
+PRD0377,Food,Aisle,168.84,Yes,Low,Seniors,No,186.31,577
+PRD0378,Electronics,Aisle,,No,Low,Young Adults,No,185.15,294
+PRD0379,Clothing,End-cap,233.72,No,High,College Students,No,255.77,749
+PRD0380,Electronics,End-cap,399.89,Yes,Medium,College Students,Yes,373.72,125
+PRD0381,Electronics,Aisle,316.73,Yes,Medium,Young Adults,Yes,280.45,644
+PRD0382,Clothing,Front of Store,97.26,Yes,High,Families,Yes,103.0,1971
+PRD0383,Food,Aisle,330.37,No,High,College Students,No,343.15,1236
+PRD0384,Food,Front of Store,200.81,No,Medium,Young Adults,Yes,223.55,569
+PRD0385,Electronics,Front of Store,370.01,,High,Families,Yes,396.1,811
+PRD0386,Electronics,Front of Store,442.13,No,Low,Young Adults,No,482.38,526
+PRD0387,Electronics,End-cap,227.54,Yes,Medium,College Students,No,212.66,637
+PRD0388,Clothing,End-cap,217.63,Yes,High,College Students,No,196.57,1488
+PRD0389,Clothing,Front of Store,7.2,No,Medium,Seniors,Yes,7.74,811
+PRD0390,Electronics,Front of Store,111.32,Yes,High,Young Adults,No,121.57,1760
+PRD0391,Food,Front of Store,,No,Medium,Seniors,No,163.79,640
+PRD0392,Food,Aisle,353.36,No,Medium,Young Adults,Yes,344.1,469
+PRD0393,Clothing,End-cap,399.02,,Medium,College Students,No,383.7,670
+PRD0394,Clothing,Front of Store,,No,Low,Young Adults,No,314.9,347
+PRD0395,Food,Front of Store,,,Low,Young Adults,No,381.61,391
+PRD0396,Clothing,Aisle,270.76,No,Medium,Families,Yes,305.75,610
+PRD0397,Food,End-cap,186.07,Yes,High,Families,No,206.08,1913
+PRD0398,Electronics,Front of Store,102.55,No,Low,Families,No,100.37,318
+PRD0399,Clothing,End-cap,61.41,No,High,Seniors,No,66.03,1672
+PRD0400,Electronics,Front of Store,337.0,Yes,Medium,Young Adults,No,362.73,788
+PRD0401,Clothing,Aisle,247.29,No,High,College Students,Yes,217.85,745
+PRD0402,Clothing,Aisle,,No,Low,Young Adults,No,541.48,298
+PRD0403,Electronics,End-cap,160.14,No,High,Young Adults,Yes,160.39,315
+PRD0404,Electronics,Aisle,197.38,No,High,Families,No,216.71,1043
+PRD0405,Clothing,End-cap,199.31,No,Medium,Seniors,No,188.55,854
+PRD0406,Electronics,Front of Store,61.54,Yes,Medium,College Students,Yes,68.84,785
+PRD0407,Food,Aisle,179.23,,High,College Students,No,173.27,994
+PRD0408,Food,Front of Store,231.64,No,High,Families,Yes,197.65,1039
+PRD0409,Electronics,Front of Store,90.4,Yes,Medium,College Students,Yes,101.39,455
+PRD0410,Food,Aisle,338.43,Yes,Low,Young Adults,No,296.93,382
+PRD0411,Food,Aisle,,Yes,Low,Young Adults,No,379.55,563
+PRD0412,Food,Aisle,459.75,No,High,Families,No,521.82,514
+PRD0413,Clothing,Front of Store,297.13,Yes,Medium,Seniors,No,337.3,933
+PRD0414,Food,End-cap,337.69,Yes,High,Young Adults,No,345.13,890
+PRD0415,Food,End-cap,160.03,Yes,Medium,Seniors,No,166.36,1141
+PRD0416,Electronics,Front of Store,123.09,Yes,Low,Seniors,No,121.19,540
+PRD0417,Food,Front of Store,62.89,No,High,College Students,No,58.99,463
+PRD0418,Clothing,Front of Store,189.79,Yes,Medium,Young Adults,Yes,180.03,1052
+PRD0419,Clothing,Aisle,74.97,Yes,High,College Students,No,78.85,836
+PRD0420,Electronics,End-cap,197.29,No,Low,Families,Yes,212.23,407
+PRD0421,Clothing,End-cap,300.23,No,Low,Young Adults,No,326.49,571
+PRD0422,Clothing,End-cap,289.53,Yes,High,Families,Yes,314.69,2018
+PRD0423,Food,End-cap,214.4,No,High,College Students,Yes,188.11,730
+PRD0424,Food,End-cap,245.9,No,High,College Students,Yes,245.49,1069
+PRD0425,Clothing,End-cap,271.0,No,Medium,College Students,Yes,235.03,790
+PRD0426,Electronics,Front of Store,459.98,Yes,Medium,Young Adults,Yes,466.81,1036
+PRD0427,Electronics,Front of Store,465.69,Yes,High,College Students,No,457.52,1231
+PRD0428,Food,Aisle,90.75,No,Low,Families,No,101.31,342
+PRD0429,Clothing,Front of Store,87.6,Yes,High,Seniors,No,83.68,879
+PRD0430,Food,Front of Store,147.97,Yes,High,Young Adults,No,130.97,1200
+PRD0431,Electronics,End-cap,97.61,Yes,Low,Families,No,87.16,432
+PRD0432,Clothing,Aisle,421.78,Yes,Low,Young Adults,No,454.87,61
+PRD0433,Food,End-cap,311.61,Yes,Medium,College Students,No,322.66,1132
+PRD0434,Food,Aisle,433.43,Yes,High,Young Adults,No,381.56,1239
+PRD0435,Electronics,Front of Store,476.16,Yes,High,College Students,No,416.75,340
+PRD0436,Food,Front of Store,244.88,Yes,High,Families,Yes,259.64,897
+PRD0437,Electronics,End-cap,101.59,Yes,High,Families,No,88.57,1618
+PRD0438,Electronics,End-cap,195.05,Yes,Low,Seniors,Yes,213.88,1133
+PRD0439,Clothing,End-cap,282.98,No,High,College Students,Yes,300.49,1162
+PRD0440,Clothing,Front of Store,328.27,Yes,High,Seniors,No,287.04,914
+PRD0441,Food,Front of Store,207.52,No,High,Families,Yes,181.67,850
+PRD0442,Electronics,Front of Store,248.4,Yes,High,College Students,Yes,284.66,1817
+PRD0443,Electronics,Aisle,356.52,No,Medium,Seniors,No,343.07,403
+PRD0444,Clothing,End-cap,224.71,Yes,High,Young Adults,No,215.99,1037
+PRD0445,Clothing,Aisle,87.79,Yes,Low,Young Adults,No,96.03,428
+PRD0446,Electronics,Front of Store,284.87,No,Medium,Families,No,323.09,471
+PRD0447,Clothing,Front of Store,398.96,No,High,Families,No,457.13,1026
+PRD0448,Food,Aisle,114.16,No,Low,Seniors,Yes,122.84,572
+PRD0449,Electronics,End-cap,21.18,Yes,Medium,Seniors,No,20.39,998
+PRD0450,Clothing,End-cap,116.3,Yes,Medium,Seniors,No,101.77,841
+PRD0451,Food,Front of Store,147.89,,High,College Students,Yes,160.19,903
+PRD0452,Electronics,Front of Store,391.47,Yes,Medium,Young Adults,Yes,398.33,455
+PRD0453,Food,Front of Store,285.0,Yes,High,College Students,No,278.52,1479
+PRD0454,Food,End-cap,387.41,,High,College Students,Yes,434.64,1128
+PRD0455,Electronics,Aisle,250.18,Yes,Medium,Seniors,No,221.0,614
+PRD0456,Food,Front of Store,257.85,No,Medium,Young Adults,Yes,257.28,1174
+PRD0457,Clothing,Front of Store,288.49,No,Medium,Seniors,Yes,246.2,653
+PRD0458,Clothing,Aisle,137.61,Yes,Medium,Young Adults,No,136.32,503
+PRD0459,Clothing,End-cap,273.84,Yes,Medium,Young Adults,No,237.39,793
+PRD0460,Food,Front of Store,495.49,No,Low,Seniors,Yes,438.83,564
+PRD0461,Clothing,End-cap,273.31,No,Low,Families,No,241.95,506
+PRD0462,Food,Front of Store,379.61,Yes,High,College Students,Yes,396.6,731
+PRD0463,Clothing,End-cap,381.2,,High,Young Adults,Yes,409.34,1915
+PRD0464,Electronics,Aisle,223.48,Yes,High,Seniors,Yes,229.07,857
+PRD0465,Food,Front of Store,113.18,Yes,Medium,College Students,Yes,128.87,1340
+PRD0466,Food,Front of Store,215.45,No,High,College Students,Yes,207.36,1191
+PRD0467,Clothing,Front of Store,369.31,Yes,High,Seniors,No,345.57,1012
+PRD0468,Electronics,Front of Store,328.57,Yes,Medium,Families,No,364.9,1187
+PRD0469,Clothing,Front of Store,127.53,Yes,Low,Families,Yes,116.96,557
+PRD0470,Clothing,Aisle,438.03,No,High,Seniors,Yes,498.9,1036
+PRD0471,Electronics,Front of Store,20.95,Yes,Medium,Families,No,17.88,893
+PRD0472,Electronics,Front of Store,135.09,Yes,High,College Students,Yes,154.13,960
+PRD0473,Clothing,End-cap,431.79,Yes,Low,Seniors,No,372.61,514
+PRD0474,Electronics,Front of Store,48.06,No,High,Young Adults,No,53.7,1295
+PRD0475,Clothing,End-cap,433.32,Yes,Low,Seniors,No,436.92,630
+PRD0476,Food,Aisle,63.11,Yes,High,Families,No,72.44,942
+PRD0477,Clothing,End-cap,406.89,No,Medium,College Students,No,354.86,499
+PRD0478,Food,End-cap,108.89,No,High,College Students,No,110.65,1301
+PRD0479,Clothing,Aisle,370.12,No,High,Young Adults,Yes,422.23,1335
+PRD0480,Electronics,Aisle,346.12,Yes,Low,Seniors,Yes,348.52,340
+PRD0481,Food,End-cap,431.22,No,Medium,Families,No,447.96,775
+PRD0482,Electronics,End-cap,,Yes,Medium,Young Adults,Yes,325.11,1425
+PRD0483,Food,Aisle,216.94,No,Low,Seniors,No,213.98,341
+PRD0484,Food,Aisle,309.99,No,Low,Families,Yes,321.85,437
+PRD0485,Clothing,Aisle,393.5,No,High,Families,No,403.45,562
+PRD0486,Clothing,Aisle,407.7,Yes,Low,College Students,No,456.77,564
+PRD0487,Clothing,Aisle,403.69,No,Medium,College Students,Yes,348.64,471
+PRD0488,Clothing,End-cap,287.19,Yes,Medium,College Students,Yes,268.32,1179
+PRD0489,Electronics,Aisle,268.48,,Low,Families,No,304.76,522
+PRD0490,Clothing,Front of Store,300.44,No,High,Seniors,Yes,335.62,1759
+PRD0491,Clothing,Front of Store,88.35,Yes,Medium,Seniors,Yes,87.17,915
+PRD0492,Food,Front of Store,489.61,Yes,Medium,Seniors,Yes,507.26,941
+PRD0493,Electronics,Front of Store,149.85,No,Medium,Young Adults,No,139.84,634
+PRD0494,Electronics,Aisle,288.5,No,Low,Young Adults,No,261.51,312
+PRD0495,Food,Front of Store,476.44,No,High,College Students,No,471.25,991
+PRD0496,Food,End-cap,259.64,Yes,Low,College Students,No,248.22,580
+PRD0497,Clothing,Front of Store,450.58,Yes,High,Seniors,Yes,461.89,1352
+PRD0498,Electronics,Aisle,408.51,Yes,Low,College Students,Yes,356.76,634
+PRD0499,Clothing,Front of Store,72.12,Yes,High,Seniors,No,82.38,898
+PRD0500,Food,End-cap,376.3,Yes,High,Seniors,Yes,431.19,2014
+PRD0501,Clothing,Aisle,208.74,No,Low,Young Adults,Yes,221.15,537
+PRD0502,Electronics,Aisle,34.35,Yes,High,Seniors,Yes,34.72,1034
+PRD0503,Clothing,Aisle,142.28,No,Medium,College Students,No,134.15,181
+PRD0504,Electronics,Front of Store,329.67,No,Medium,Seniors,Yes,360.7,539
+PRD0505,Clothing,Front of Store,352.21,No,Low,College Students,Yes,371.73,641
+PRD0506,Clothing,Aisle,70.68,,Medium,Seniors,No,63.53,645
+PRD0507,Electronics,Front of Store,77.39,Yes,High,Families,Yes,86.93,901
+PRD0508,Electronics,End-cap,164.44,No,Low,Young Adults,Yes,180.35,457
+PRD0509,Electronics,Aisle,127.54,No,Medium,Young Adults,Yes,144.75,688
+PRD0510,Clothing,End-cap,422.56,No,Low,Seniors,Yes,451.17,627
+PRD0511,Clothing,End-cap,,,High,College Students,Yes,206.17,1072
+PRD0512,Clothing,Front of Store,75.37,No,Low,Seniors,Yes,73.52,373
+PRD0513,Food,Front of Store,318.04,No,Medium,Young Adults,No,359.33,582
+PRD0514,Clothing,Aisle,315.77,No,Low,College Students,No,350.45,278
+PRD0515,Electronics,End-cap,190.71,Yes,Low,Families,No,164.69,945
+PRD0516,Electronics,Front of Store,42.38,No,High,Families,Yes,36.36,812
+PRD0517,Electronics,End-cap,398.33,No,Low,College Students,Yes,383.57,668
+PRD0518,Clothing,Front of Store,385.6,Yes,Medium,Seniors,Yes,421.52,1249
+PRD0519,Electronics,End-cap,204.41,No,Medium,Young Adults,No,234.29,1000
+PRD0520,Electronics,Aisle,376.15,No,Medium,College Students,Yes,336.7,435
+PRD0521,Food,Front of Store,348.88,No,Low,Seniors,No,358.73,517
+PRD0522,Food,Aisle,439.27,No,High,College Students,Yes,423.57,744
+PRD0523,Electronics,End-cap,230.07,No,Medium,College Students,No,262.5,561
+PRD0524,Food,End-cap,246.58,No,High,Young Adults,Yes,271.89,1267
+PRD0525,Food,Aisle,293.07,Yes,High,Families,No,322.82,693
+PRD0526,Electronics,End-cap,435.11,Yes,Low,Families,Yes,431.02,863
+PRD0527,Clothing,Front of Store,424.35,Yes,Low,Families,Yes,413.51,469
+PRD0528,Clothing,Front of Store,51.11,No,High,Families,No,47.64,954
+PRD0529,Electronics,End-cap,486.21,Yes,High,Young Adults,No,421.5,1481
+PRD0530,Clothing,End-cap,319.25,Yes,Medium,Seniors,Yes,354.18,923
+PRD0531,Food,End-cap,350.16,Yes,Low,College Students,Yes,383.03,824
+PRD0532,Electronics,End-cap,425.8,No,High,Young Adults,Yes,489.63,990
+PRD0533,Clothing,Front of Store,398.86,No,Medium,Families,No,458.29,832
+PRD0534,Clothing,Front of Store,201.87,Yes,Low,Families,Yes,205.23,358
+PRD0535,Food,End-cap,484.22,Yes,Low,Young Adults,Yes,523.29,727
+PRD0536,Electronics,Aisle,413.3,No,Low,College Students,Yes,468.45,608
+PRD0537,Electronics,Aisle,249.88,Yes,Medium,Young Adults,Yes,276.09,500
+PRD0538,Food,Front of Store,164.82,Yes,Medium,College Students,Yes,152.33,621
+PRD0539,Electronics,Aisle,145.38,Yes,Medium,Young Adults,No,143.22,750
+PRD0540,Electronics,End-cap,275.92,,Medium,Seniors,No,245.22,737
+PRD0541,Food,Aisle,69.64,No,Medium,Families,No,79.13,607
+PRD0542,Food,Front of Store,426.95,Yes,High,Seniors,No,440.55,1475
+PRD0543,Clothing,End-cap,395.21,Yes,High,Young Adults,No,363.04,1624
+PRD0544,Electronics,End-cap,447.61,No,Low,Seniors,No,470.67,718
+PRD0545,Food,Front of Store,382.32,Yes,Medium,College Students,No,395.87,963
+PRD0546,Clothing,Aisle,,No,High,Young Adults,No,26.56,695
+PRD0547,Electronics,Front of Store,314.96,Yes,High,College Students,No,278.45,1406
+PRD0548,Clothing,Front of Store,419.17,Yes,Medium,Seniors,No,440.75,1347
+PRD0549,Food,Aisle,13.06,No,Medium,Families,Yes,13.14,528
+PRD0550,Electronics,End-cap,465.07,No,Medium,Young Adults,No,503.06,544
+PRD0551,Clothing,Aisle,,No,Low,College Students,No,83.7,512
+PRD0552,Food,Aisle,230.98,Yes,High,Seniors,No,255.38,1033
+PRD0553,Food,End-cap,495.96,Yes,Medium,Young Adults,Yes,503.68,348
+PRD0554,Food,End-cap,216.76,No,Low,Families,No,220.72,676
+PRD0555,Food,Front of Store,497.87,No,Medium,Young Adults,No,554.13,554
+PRD0556,Food,Aisle,455.16,Yes,Medium,Families,Yes,441.98,632
+PRD0557,Food,End-cap,441.66,Yes,Medium,Seniors,Yes,393.17,1000
+PRD0558,Food,Aisle,154.42,No,High,College Students,No,132.59,792
+PRD0559,Clothing,Aisle,437.84,Yes,Medium,Young Adults,No,471.35,867
+PRD0560,Electronics,End-cap,438.91,Yes,High,Young Adults,Yes,454.75,1305
+PRD0561,Electronics,End-cap,51.2,Yes,High,College Students,Yes,54.33,1732
+PRD0562,Clothing,Aisle,183.42,Yes,Low,Young Adults,Yes,167.63,419
+PRD0563,Food,End-cap,45.8,Yes,Low,Young Adults,No,40.8,778
+PRD0564,Electronics,Aisle,333.93,No,High,Young Adults,Yes,285.3,888
+PRD0565,Food,End-cap,326.21,Yes,High,Young Adults,No,311.59,981
+PRD0566,Electronics,Front of Store,30.63,Yes,Medium,College Students,No,31.46,1137
+PRD0567,Food,End-cap,314.67,Yes,Medium,Seniors,No,304.5,763
+PRD0568,Clothing,Aisle,364.36,Yes,High,Young Adults,No,357.53,1211
+PRD0569,Food,End-cap,378.84,No,High,College Students,Yes,424.77,1282
+PRD0570,Electronics,Aisle,217.47,No,Medium,Seniors,Yes,207.57,775
+PRD0571,Food,End-cap,50.14,No,Medium,College Students,No,50.35,718
+PRD0572,Electronics,Aisle,52.12,No,Medium,Families,Yes,56.56,492
+PRD0573,Food,Aisle,110.64,No,Medium,Seniors,No,107.21,497
+PRD0574,Electronics,End-cap,43.58,Yes,Low,Seniors,Yes,45.18,636
+PRD0575,Electronics,Aisle,298.87,Yes,Medium,Families,No,331.36,886
+PRD0576,Electronics,Front of Store,262.12,Yes,High,Seniors,No,297.47,662
+PRD0577,Food,Front of Store,225.31,Yes,High,Seniors,Yes,201.45,800
+PRD0578,Electronics,End-cap,8.99,No,Medium,Families,No,10.14,523
+PRD0579,Food,Aisle,175.07,No,Medium,College Students,No,174.66,642
+PRD0580,Clothing,Aisle,64.69,No,High,Young Adults,Yes,60.0,1134
+PRD0581,Clothing,Aisle,430.87,No,High,Seniors,No,425.59,726
+PRD0582,Electronics,End-cap,348.55,Yes,Low,College Students,No,398.74,665
+PRD0583,Food,End-cap,241.46,Yes,High,College Students,No,240.93,1393
+PRD0584,Electronics,Front of Store,118.33,No,High,Families,Yes,112.25,1213
+PRD0585,Food,Aisle,49.22,No,High,College Students,No,51.19,595
+PRD0586,Food,Front of Store,403.95,Yes,Low,Families,No,372.46,585
+PRD0587,Clothing,End-cap,56.08,,High,College Students,Yes,48.94,1357
+PRD0588,Food,End-cap,186.94,Yes,Medium,Young Adults,Yes,166.13,1046
+PRD0589,Food,Front of Store,153.13,No,High,College Students,Yes,136.04,951
+PRD0590,Electronics,Aisle,194.45,Yes,High,College Students,Yes,174.14,1267
+PRD0591,Electronics,Aisle,407.62,Yes,Low,College Students,No,363.45,86
+PRD0592,Food,Aisle,437.88,,Medium,Families,Yes,456.39,661
+PRD0593,Clothing,End-cap,322.58,No,High,Seniors,No,291.79,843
+PRD0594,Electronics,Aisle,,Yes,Low,Families,No,324.43,205
+PRD0595,Electronics,Aisle,38.86,No,High,Young Adults,Yes,43.49,951
+PRD0596,Clothing,Front of Store,283.83,No,Low,Families,No,281.61,593
+PRD0597,Electronics,Front of Store,307.11,No,Low,Seniors,Yes,322.55,442
+PRD0598,Food,Front of Store,86.24,No,Low,Young Adults,No,77.76,540
+PRD0599,Food,Front of Store,178.84,No,Medium,Seniors,Yes,162.33,890
+PRD0600,Food,End-cap,110.46,Yes,Low,Seniors,Yes,95.25,888
+PRD0601,Electronics,Aisle,375.39,No,High,Young Adults,Yes,338.11,1118
+PRD0602,Electronics,End-cap,460.35,No,Low,Seniors,Yes,429.77,599
+PRD0603,Electronics,Aisle,309.96,No,High,Families,Yes,279.93,766
+PRD0604,Electronics,End-cap,223.98,Yes,Medium,Seniors,Yes,196.34,472
+PRD0605,Food,Aisle,112.54,No,Medium,College Students,No,99.73,463
+PRD0606,Clothing,Aisle,448.81,Yes,Low,Families,Yes,443.53,339
+PRD0607,Food,Aisle,74.31,No,High,Seniors,Yes,67.76,1238
+PRD0608,Electronics,End-cap,65.96,Yes,Medium,College Students,No,63.27,861
+PRD0609,Food,Front of Store,366.35,No,Medium,Families,No,366.73,684
+PRD0610,Clothing,Front of Store,179.01,Yes,Low,Young Adults,No,189.23,699
+PRD0611,Food,End-cap,217.55,Yes,Low,Families,Yes,187.48,645
+PRD0612,Clothing,Aisle,396.58,No,Low,Young Adults,No,432.2,580
+PRD0613,Electronics,Aisle,127.65,No,High,Families,No,132.55,670
+PRD0614,Food,End-cap,324.09,No,Low,College Students,Yes,283.43,518
+PRD0615,Food,Front of Store,127.84,Yes,Low,Young Adults,Yes,142.17,466
+PRD0616,Food,Front of Store,302.49,No,High,Families,No,340.68,597
+PRD0617,Food,Aisle,361.98,Yes,High,Young Adults,Yes,314.32,796
+PRD0618,Electronics,Front of Store,146.04,No,Low,Seniors,No,136.26,415
+PRD0619,Clothing,Front of Store,470.93,Yes,High,Families,Yes,514.19,1121
+PRD0620,Clothing,Front of Store,18.28,No,High,Families,Yes,19.64,784
+PRD0621,Food,Aisle,424.3,No,Low,College Students,No,384.14,202
+PRD0622,Electronics,Front of Store,438.53,Yes,High,College Students,No,400.29,1140
+PRD0623,Clothing,Aisle,106.7,Yes,Low,College Students,No,102.55,249
+PRD0624,Clothing,End-cap,305.43,No,Low,Young Adults,No,304.01,601
+PRD0625,Clothing,End-cap,98.38,No,High,Families,Yes,101.87,1183
+PRD0626,Clothing,Aisle,198.92,No,Low,Young Adults,Yes,191.1,196
+PRD0627,Clothing,Front of Store,324.85,Yes,Medium,Families,No,321.2,707
+PRD0628,Clothing,End-cap,392.98,No,High,College Students,Yes,422.16,894
+PRD0629,Electronics,Aisle,,Yes,High,Young Adults,No,342.61,1068
+PRD0630,Food,Front of Store,123.47,Yes,High,Seniors,Yes,114.3,1640
+PRD0631,Clothing,End-cap,196.01,No,Low,Seniors,Yes,208.56,235
+PRD0632,Electronics,Aisle,124.34,Yes,Low,Families,Yes,139.08,517
+PRD0633,Electronics,Front of Store,320.85,Yes,High,Young Adults,No,321.97,1225
+PRD0634,Food,Front of Store,40.15,Yes,Low,Young Adults,Yes,40.54,721
+PRD0635,Food,Aisle,444.92,No,Medium,Families,Yes,392.49,531
+PRD0636,Clothing,Front of Store,10.97,Yes,Medium,Families,No,10.8,604
+PRD0637,Food,End-cap,183.74,Yes,Medium,College Students,Yes,185.54,905
+PRD0638,Food,Aisle,161.65,Yes,High,Families,No,149.16,742
+PRD0639,Electronics,Front of Store,196.48,Yes,Low,College Students,No,182.88,722
+PRD0640,Electronics,Front of Store,420.29,No,High,Young Adults,Yes,404.82,905
+PRD0641,Electronics,Front of Store,213.33,,Medium,Seniors,No,182.62,1224
+PRD0642,Clothing,Front of Store,275.45,Yes,Medium,Seniors,Yes,260.75,765
+PRD0643,Clothing,Front of Store,90.52,Yes,Medium,College Students,Yes,82.68,614
+PRD0644,Food,Aisle,238.15,,High,Families,No,225.83,532
+PRD0645,Food,End-cap,493.75,No,High,Families,No,437.43,482
+PRD0646,Clothing,End-cap,41.13,Yes,Medium,Seniors,No,45.95,525
+PRD0647,Clothing,Aisle,295.74,Yes,Medium,Seniors,No,304.04,772
+PRD0648,Electronics,Front of Store,11.83,No,Low,College Students,Yes,12.47,532
+PRD0649,Clothing,End-cap,111.79,No,Low,College Students,Yes,121.49,283
+PRD0650,Clothing,End-cap,461.68,No,Medium,Young Adults,Yes,461.46,887
+PRD0651,Food,End-cap,474.6,No,Low,Seniors,No,415.79,418
+PRD0652,Food,Front of Store,202.0,No,Medium,Families,Yes,204.25,689
+PRD0653,Electronics,Aisle,146.81,No,Medium,Young Adults,No,150.63,816
+PRD0654,Clothing,End-cap,357.75,Yes,Medium,College Students,No,384.09,1270
+PRD0655,Food,Aisle,384.72,No,Low,College Students,Yes,376.83,321
+PRD0656,Clothing,End-cap,214.67,No,Medium,Young Adults,No,190.69,512
+PRD0657,Clothing,Aisle,204.13,Yes,Medium,Seniors,Yes,190.89,230
+PRD0658,Electronics,Front of Store,322.07,Yes,Low,Young Adults,No,308.84,428
+PRD0659,Clothing,Front of Store,,Yes,Medium,Families,No,283.01,803
+PRD0660,Electronics,Front of Store,80.58,No,Low,Young Adults,Yes,82.29,325
+PRD0661,Food,Aisle,46.38,No,Medium,Seniors,No,44.38,480
+PRD0662,Food,Front of Store,44.12,Yes,Low,College Students,Yes,50.56,614
+PRD0663,Food,Front of Store,460.86,No,High,College Students,Yes,475.48,923
+PRD0664,Food,End-cap,487.29,,Medium,College Students,No,448.88,563
+PRD0665,Electronics,Aisle,81.91,Yes,Low,College Students,No,72.12,478
+PRD0666,Electronics,Aisle,166.74,No,High,Young Adults,Yes,149.38,849
+PRD0667,Food,End-cap,295.29,Yes,Medium,College Students,No,272.79,612
+PRD0668,Food,Front of Store,382.8,No,Low,Families,No,343.83,597
+PRD0669,Food,End-cap,,No,Low,College Students,Yes,295.95,475
+PRD0670,Electronics,Front of Store,323.36,Yes,High,Young Adults,No,302.51,1176
+PRD0671,Food,Aisle,158.53,,Medium,Seniors,No,143.0,788
+PRD0672,Electronics,Front of Store,221.56,Yes,Low,College Students,No,247.93,642
+PRD0673,Clothing,End-cap,476.95,No,High,College Students,Yes,416.89,1350
+PRD0674,Food,Front of Store,123.13,Yes,High,Families,No,124.04,1397
+PRD0675,Electronics,End-cap,126.02,No,Low,Families,Yes,122.63,399
+PRD0676,Electronics,Front of Store,462.69,No,Medium,Young Adults,Yes,529.65,731
+PRD0677,Electronics,Aisle,62.41,No,High,College Students,Yes,55.15,492
+PRD0678,Clothing,Aisle,308.09,Yes,Medium,Seniors,Yes,298.65,671
+PRD0679,Food,Aisle,32.24,No,Low,Seniors,Yes,36.78,381
+PRD0680,Electronics,Front of Store,334.71,Yes,Low,College Students,No,371.41,563
+PRD0681,Food,End-cap,330.74,No,Low,Families,No,362.2,518
+PRD0682,Electronics,Aisle,91.94,No,Low,Young Adults,No,85.26,152
+PRD0683,Food,End-cap,11.27,No,High,College Students,Yes,10.16,877
+PRD0684,Clothing,Aisle,72.92,No,High,College Students,Yes,76.61,847
+PRD0685,Electronics,Aisle,10.62,Yes,Medium,Families,No,11.99,749
+PRD0686,Electronics,Aisle,250.72,No,Medium,College Students,No,254.99,380
+PRD0687,Clothing,Aisle,176.62,,Low,Young Adults,No,180.41,531
+PRD0688,Food,End-cap,261.03,Yes,Medium,Seniors,No,243.8,673
+PRD0689,Electronics,End-cap,412.14,No,Low,Seniors,No,445.46,695
+PRD0690,Clothing,Front of Store,133.33,No,High,Young Adults,No,120.81,1015
+PRD0691,Electronics,End-cap,,No,High,Seniors,No,179.08,846
+PRD0692,Electronics,Front of Store,376.14,No,Low,College Students,Yes,367.73,643
+PRD0693,Electronics,End-cap,437.36,No,Low,Young Adults,No,438.36,345
+PRD0694,Food,End-cap,367.8,No,High,Families,No,339.38,1339
+PRD0695,Clothing,Aisle,63.44,Yes,Medium,Families,Yes,56.11,845
+PRD0696,Clothing,Front of Store,450.45,Yes,Medium,Families,No,465.4,685
+PRD0697,Clothing,Aisle,170.83,Yes,Low,Families,Yes,160.0,645
+PRD0698,Clothing,End-cap,217.52,Yes,High,College Students,Yes,222.82,1388
+PRD0699,Electronics,End-cap,264.31,No,Medium,College Students,No,236.9,760
+PRD0700,Food,Aisle,135.16,Yes,Medium,Families,Yes,134.4,700
+PRD0701,Clothing,Front of Store,,No,High,College Students,No,492.42,950
+PRD0702,Food,End-cap,315.63,No,Low,Young Adults,No,273.19,609
+PRD0703,Clothing,End-cap,250.59,Yes,High,Young Adults,Yes,238.31,1689
+PRD0704,Clothing,Aisle,257.84,Yes,High,Young Adults,Yes,229.56,463
+PRD0705,Electronics,End-cap,32.44,Yes,Medium,Families,No,28.19,1266
+PRD0706,Electronics,End-cap,430.38,No,Medium,Families,No,493.64,385
+PRD0707,Electronics,End-cap,87.61,Yes,Medium,Families,No,82.94,1191
+PRD0708,Food,Front of Store,,Yes,Medium,College Students,Yes,90.57,1148
+PRD0709,Electronics,End-cap,387.8,No,High,Seniors,Yes,359.25,706
+PRD0710,Electronics,End-cap,447.66,No,Low,Seniors,Yes,472.04,472
+PRD0711,Clothing,End-cap,338.69,Yes,High,College Students,Yes,365.13,1003
+PRD0712,Clothing,Aisle,62.09,No,Low,Families,Yes,63.87,360
+PRD0713,Electronics,End-cap,371.69,No,Low,Families,No,368.52,444
+PRD0714,Electronics,Front of Store,6.27,No,Medium,College Students,Yes,6.1,740
+PRD0715,Food,End-cap,430.05,No,High,Young Adults,Yes,410.55,1462
+PRD0716,Food,End-cap,11.08,Yes,Medium,Young Adults,No,12.51,1420
+PRD0717,Clothing,Front of Store,27.76,No,Low,College Students,No,30.51,384
+PRD0718,Food,End-cap,185.17,Yes,High,College Students,Yes,211.0,1407
+PRD0719,Electronics,Aisle,460.51,Yes,High,Young Adults,Yes,408.61,482
+PRD0720,Electronics,Front of Store,93.59,Yes,Medium,Young Adults,Yes,100.07,650
+PRD0721,Clothing,End-cap,480.37,Yes,Medium,Seniors,No,543.54,1290
+PRD0722,Electronics,Aisle,22.5,No,High,Seniors,No,20.35,1113
+PRD0723,Electronics,End-cap,402.54,No,Medium,Seniors,Yes,350.19,440
+PRD0724,Electronics,Front of Store,358.44,Yes,Medium,Families,Yes,384.37,705
+PRD0725,Electronics,Aisle,329.57,No,Low,Young Adults,Yes,336.93,381
+PRD0726,Food,Front of Store,116.14,No,High,Families,No,128.05,1073
+PRD0727,Food,End-cap,127.89,No,High,College Students,No,114.07,794
+PRD0728,Food,End-cap,458.35,No,Low,Families,Yes,498.95,607
+PRD0729,Food,Aisle,,No,Medium,Families,No,148.75,428
+PRD0730,Food,Aisle,413.87,No,High,College Students,Yes,372.11,746
+PRD0731,Clothing,End-cap,287.91,No,Medium,Families,Yes,258.91,814
+PRD0732,Electronics,Front of Store,64.1,Yes,Low,Families,Yes,70.15,601
+PRD0733,Clothing,End-cap,338.3,No,Medium,Seniors,Yes,355.07,669
+PRD0734,Electronics,End-cap,31.07,Yes,Medium,College Students,No,31.28,968
+PRD0735,Electronics,End-cap,115.48,No,High,College Students,No,110.59,1022
+PRD0736,Electronics,Front of Store,260.31,Yes,Low,College Students,No,289.77,533
+PRD0737,Clothing,Front of Store,27.73,Yes,Low,College Students,Yes,26.84,503
+PRD0738,Electronics,End-cap,203.46,No,High,Young Adults,No,222.78,1708
+PRD0739,Electronics,Aisle,439.11,No,Low,Young Adults,Yes,431.09,408
+PRD0740,Food,Front of Store,433.69,No,Medium,College Students,No,417.68,546
+PRD0741,Food,End-cap,387.9,No,High,Young Adults,No,383.56,1269
+PRD0742,Electronics,End-cap,158.8,No,Low,Families,No,149.34,440
+PRD0743,Food,End-cap,47.76,Yes,Medium,Seniors,No,51.31,1353
+PRD0744,Clothing,Aisle,231.09,No,High,Seniors,No,231.28,916
+PRD0745,Electronics,Front of Store,187.62,,Medium,Families,Yes,172.55,580
+PRD0746,Clothing,End-cap,149.34,No,Low,Seniors,Yes,167.24,611
+PRD0747,Food,Front of Store,393.33,Yes,High,Families,Yes,379.63,618
+PRD0748,Food,End-cap,371.09,Yes,High,Families,Yes,375.94,993
+PRD0749,Clothing,End-cap,125.08,No,Medium,Seniors,Yes,140.33,494
+PRD0750,Electronics,Front of Store,187.3,No,Medium,Families,No,194.28,688
+PRD0751,Food,Aisle,486.07,No,Low,Seniors,Yes,430.21,531
+PRD0752,Food,Aisle,498.9,Yes,High,College Students,Yes,564.73,1790
+PRD0753,Food,Front of Store,389.06,Yes,Medium,Seniors,No,403.97,1022
+PRD0754,Clothing,Front of Store,367.57,Yes,High,Seniors,No,349.36,1345
+PRD0755,Clothing,End-cap,275.55,No,Low,College Students,Yes,245.73,225
+PRD0756,Food,End-cap,399.01,Yes,Low,Seniors,Yes,434.21,586
+PRD0757,Electronics,Front of Store,79.53,No,Low,Families,No,82.39,352
+PRD0758,Clothing,Front of Store,466.54,No,Low,Young Adults,No,471.22,375
+PRD0759,Electronics,Front of Store,,No,Low,College Students,No,18.83,438
+PRD0760,Clothing,Aisle,273.06,No,High,Seniors,No,296.7,708
+PRD0761,Clothing,Aisle,319.79,No,High,College Students,Yes,286.37,304
+PRD0762,Electronics,Aisle,348.26,No,Low,College Students,Yes,328.59,428
+PRD0763,Electronics,Front of Store,9.75,No,Medium,Families,No,9.01,406
+PRD0764,Electronics,Front of Store,170.83,No,Medium,Families,Yes,183.33,707
+PRD0765,Clothing,End-cap,380.67,No,Low,Seniors,Yes,327.4,794
+PRD0766,Electronics,Aisle,191.26,No,High,Seniors,No,195.27,597
+PRD0767,Electronics,Aisle,370.35,Yes,High,College Students,Yes,399.51,258
+PRD0768,Electronics,Aisle,157.22,Yes,Medium,College Students,No,174.99,653
+PRD0769,Electronics,Aisle,106.57,Yes,Medium,College Students,No,101.52,864
+PRD0770,Electronics,Front of Store,491.64,Yes,High,Families,Yes,539.02,2043
+PRD0771,Electronics,End-cap,212.81,Yes,Medium,College Students,Yes,187.95,574
+PRD0772,Electronics,End-cap,480.79,No,Low,Seniors,Yes,530.76,619
+PRD0773,Clothing,End-cap,486.42,Yes,Low,Seniors,Yes,432.06,548
+PRD0774,Electronics,Front of Store,75.47,Yes,Medium,Young Adults,Yes,73.14,755
+PRD0775,Clothing,Aisle,143.51,Yes,Low,College Students,Yes,156.31,897
+PRD0776,Food,Front of Store,26.73,No,Medium,Families,Yes,23.92,329
+PRD0777,Food,Aisle,119.58,,High,Young Adults,No,109.87,1049
+PRD0778,Clothing,Front of Store,423.52,Yes,Low,Families,No,451.76,684
+PRD0779,Electronics,End-cap,209.46,Yes,Medium,Families,Yes,223.29,1327
+PRD0780,Clothing,End-cap,448.31,No,Low,College Students,Yes,467.29,554
+PRD0781,Food,End-cap,231.94,Yes,Low,College Students,Yes,245.44,765
+PRD0782,Clothing,End-cap,375.21,Yes,High,College Students,Yes,380.02,1325
+PRD0783,Food,Aisle,292.48,No,High,Young Adults,Yes,270.7,810
+PRD0784,Clothing,Front of Store,255.19,Yes,High,Families,Yes,243.38,1049
+PRD0785,Clothing,Aisle,320.42,Yes,Medium,College Students,No,289.81,771
+PRD0786,Clothing,Front of Store,200.2,No,High,College Students,Yes,224.73,880
+PRD0787,Clothing,End-cap,297.99,Yes,High,College Students,Yes,305.44,1671
+PRD0788,Clothing,End-cap,35.83,Yes,Low,College Students,Yes,34.76,631
+PRD0789,Food,End-cap,332.91,No,High,Seniors,No,329.12,1404
+PRD0790,Clothing,Front of Store,69.7,No,High,Families,No,79.05,974
+PRD0791,Clothing,End-cap,,Yes,Low,Families,Yes,133.85,298
+PRD0792,Clothing,Aisle,426.2,Yes,Low,College Students,No,437.23,689
+PRD0793,Electronics,Aisle,463.39,No,Low,Young Adults,Yes,464.21,280
+PRD0794,Food,Aisle,199.51,No,High,Families,Yes,206.18,663
+PRD0795,Clothing,Front of Store,416.79,Yes,Low,Young Adults,No,356.54,448
+PRD0796,Food,Aisle,166.49,Yes,Medium,College Students,Yes,185.08,1009
+PRD0797,Clothing,End-cap,229.12,Yes,High,College Students,No,258.82,539
+PRD0798,Electronics,Front of Store,120.64,,Low,Families,No,123.0,1165
+PRD0799,Food,End-cap,472.06,Yes,Medium,College Students,Yes,499.91,1318
+PRD0800,Electronics,Front of Store,72.38,No,High,Young Adults,No,81.55,1056
+PRD0801,Electronics,Aisle,386.22,No,Low,College Students,No,410.23,378
+PRD0802,Clothing,End-cap,58.94,No,Low,College Students,No,52.8,531
+PRD0803,Food,End-cap,57.3,No,High,Families,Yes,58.61,1335
+PRD0804,Food,Front of Store,227.54,No,High,Seniors,Yes,234.82,1181
+PRD0805,Food,End-cap,160.45,No,Low,Young Adults,Yes,156.8,571
+PRD0806,Food,Aisle,64.76,Yes,Low,Seniors,Yes,69.35,513
+PRD0807,Clothing,Front of Store,182.35,Yes,Low,College Students,Yes,206.11,565
+PRD0808,Clothing,End-cap,386.32,No,High,Young Adults,Yes,435.64,1102
+PRD0809,Electronics,Front of Store,228.7,No,Low,College Students,Yes,225.33,395
+PRD0810,Clothing,End-cap,234.36,No,Medium,Seniors,No,207.17,938
+PRD0811,Food,Aisle,426.98,No,Low,Seniors,Yes,489.09,453
+PRD0812,Clothing,Aisle,49.76,No,Medium,Young Adults,Yes,54.82,64
+PRD0813,Electronics,Aisle,404.76,Yes,High,College Students,Yes,359.18,1166
+PRD0814,Food,Aisle,155.59,Yes,Low,Seniors,No,175.23,529
+PRD0815,Food,End-cap,353.83,No,High,Young Adults,No,393.09,1148
+PRD0816,Electronics,Aisle,303.63,No,Low,College Students,Yes,305.35,340
+PRD0817,Electronics,Front of Store,111.44,,Low,College Students,No,114.49,617
+PRD0818,Food,End-cap,429.0,No,Low,Young Adults,Yes,416.0,629
+PRD0819,Clothing,Aisle,78.42,No,Medium,College Students,No,67.95,384
+PRD0820,Clothing,Front of Store,,Yes,High,Seniors,No,339.37,1312
+PRD0821,Food,End-cap,484.36,No,High,Seniors,No,528.37,818
+PRD0822,Food,Front of Store,201.14,Yes,Low,Young Adults,Yes,171.25,320
+PRD0823,Food,End-cap,29.23,Yes,Low,Families,No,27.77,517
+PRD0824,Clothing,Front of Store,152.93,Yes,Low,College Students,No,148.26,687
+PRD0825,Clothing,Aisle,410.94,No,Medium,Seniors,Yes,415.55,707
+PRD0826,Food,Front of Store,91.06,No,Medium,Seniors,No,102.53,761
+PRD0827,Electronics,Front of Store,476.29,No,High,Seniors,No,454.33,1095
+PRD0828,Food,End-cap,428.03,Yes,High,Seniors,Yes,408.38,1576
+PRD0829,Food,End-cap,,,Medium,College Students,Yes,300.16,621
+PRD0830,Clothing,Aisle,277.31,No,Medium,Families,Yes,273.33,564
+PRD0831,Food,Front of Store,51.89,No,Low,College Students,No,47.6,520
+PRD0832,Clothing,Front of Store,55.44,Yes,High,College Students,Yes,54.65,1434
+PRD0833,Electronics,Front of Store,397.94,No,High,Young Adults,No,355.06,1221
+PRD0834,Food,Front of Store,65.12,No,High,Seniors,Yes,58.8,1091
+PRD0835,Electronics,Aisle,35.53,Yes,Low,Seniors,No,35.51,502
+PRD0836,Food,End-cap,391.58,Yes,Medium,Families,Yes,382.06,1202
+PRD0837,Electronics,Front of Store,115.03,No,Low,Families,No,129.35,458
+PRD0838,Clothing,Aisle,103.08,Yes,Low,Young Adults,No,98.82,334
+PRD0839,Food,Aisle,203.29,No,High,Young Adults,No,208.2,784
+PRD0840,Food,Aisle,344.71,No,Low,Young Adults,Yes,358.39,298
+PRD0841,Electronics,Aisle,469.1,No,Medium,Seniors,Yes,400.58,398
+PRD0842,Clothing,Aisle,46.6,Yes,Low,Seniors,Yes,48.89,478
+PRD0843,Electronics,End-cap,295.13,Yes,Low,Families,No,266.62,485
+PRD0844,Electronics,Aisle,459.13,No,Medium,Families,Yes,522.64,499
+PRD0845,Clothing,End-cap,42.12,No,Low,Young Adults,Yes,37.68,211
+PRD0846,Electronics,Front of Store,498.59,Yes,Medium,College Students,No,485.82,829
+PRD0847,Electronics,Front of Store,102.89,No,Low,Families,Yes,90.09,420
+PRD0848,Food,End-cap,324.76,Yes,High,Seniors,No,373.17,1133
+PRD0849,Electronics,End-cap,405.6,No,Medium,Families,Yes,405.87,922
+PRD0850,Food,Front of Store,50.53,Yes,High,Seniors,No,51.98,1648
+PRD0851,Clothing,Aisle,424.4,No,Low,College Students,No,369.28,181
+PRD0852,Electronics,Front of Store,405.4,No,Medium,Young Adults,No,435.8,508
+PRD0853,Clothing,Aisle,65.65,No,Low,Young Adults,Yes,59.94,269
+PRD0854,Food,Aisle,471.43,No,High,Young Adults,Yes,527.73,592
+PRD0855,Food,End-cap,30.07,,Low,Families,No,27.41,795
+PRD0856,Food,End-cap,462.45,Yes,Low,Young Adults,Yes,419.54,599
+PRD0857,Electronics,Front of Store,219.41,Yes,Low,Seniors,Yes,188.9,502
+PRD0858,Food,Front of Store,363.59,Yes,High,Families,No,360.54,466
+PRD0859,Food,End-cap,250.58,No,High,Families,Yes,255.45,1375
+PRD0860,Electronics,Front of Store,194.45,Yes,Medium,College Students,No,169.12,490
+PRD0861,Electronics,End-cap,216.2,No,Low,College Students,Yes,234.07,548
+PRD0862,Electronics,End-cap,180.2,No,Low,Families,Yes,177.67,530
+PRD0863,Food,Front of Store,454.61,No,Medium,Families,Yes,457.94,929
+PRD0864,Food,Aisle,141.12,No,Low,Families,No,138.61,212
+PRD0865,Electronics,Aisle,225.78,Yes,Low,Families,No,219.06,42
+PRD0866,Electronics,End-cap,78.57,No,Low,Families,Yes,79.98,568
+PRD0867,Clothing,Front of Store,308.98,Yes,Low,Seniors,No,277.02,840
+PRD0868,Clothing,Aisle,310.4,Yes,Low,Families,No,280.78,624
+PRD0869,Electronics,End-cap,,Yes,High,Seniors,No,360.72,1595
+PRD0870,Electronics,End-cap,251.95,Yes,High,Young Adults,Yes,285.67,1280
+PRD0871,Clothing,Front of Store,441.98,Yes,High,Seniors,Yes,425.18,1453
+PRD0872,Electronics,Front of Store,242.12,Yes,Medium,Young Adults,Yes,225.47,552
+PRD0873,Food,End-cap,48.42,No,Medium,College Students,No,50.51,880
+PRD0874,Food,Aisle,194.59,No,High,College Students,No,189.26,863
+PRD0875,Food,Front of Store,212.52,Yes,Medium,Families,Yes,182.26,1028
+PRD0876,Electronics,Front of Store,323.11,No,High,Seniors,No,289.78,1645
+PRD0877,Electronics,Front of Store,399.61,Yes,Low,Young Adults,No,425.5,671
+PRD0878,Clothing,Aisle,128.33,Yes,Low,Young Adults,No,134.45,424
+PRD0879,Electronics,Aisle,497.07,Yes,Low,Seniors,Yes,426.55,451
+PRD0880,Electronics,End-cap,274.11,Yes,High,Families,No,251.25,640
+PRD0881,Clothing,Front of Store,14.67,Yes,Medium,Seniors,Yes,13.49,617
+PRD0882,Electronics,Aisle,194.34,No,High,College Students,Yes,204.36,723
+PRD0883,Clothing,Aisle,358.12,Yes,Medium,College Students,Yes,306.52,547
+PRD0884,Electronics,Front of Store,242.44,No,Medium,Families,Yes,213.65,627
+PRD0885,Electronics,Aisle,391.81,No,Low,Seniors,No,427.06,290
+PRD0886,Electronics,End-cap,175.3,No,Low,College Students,No,158.39,654
+PRD0887,Electronics,Aisle,285.0,No,High,Young Adults,Yes,298.06,825
+PRD0888,Food,Aisle,164.19,No,High,Young Adults,No,151.29,747
+PRD0889,Food,End-cap,138.87,No,Low,Seniors,Yes,122.18,441
+PRD0890,Electronics,Front of Store,17.9,Yes,High,Families,No,16.52,1224
+PRD0891,Food,Aisle,300.57,No,Low,Young Adults,No,320.61,480
+PRD0892,Clothing,End-cap,19.51,Yes,High,Young Adults,Yes,21.59,1110
+PRD0893,Food,Front of Store,406.29,Yes,Medium,College Students,No,446.54,688
+PRD0894,Clothing,End-cap,144.06,Yes,High,Young Adults,No,139.62,1240
+PRD0895,Clothing,Aisle,405.28,No,Low,Seniors,No,425.72,229
+PRD0896,Clothing,End-cap,238.48,No,High,Seniors,No,217.37,791
+PRD0897,Food,Aisle,181.93,Yes,Medium,College Students,No,170.64,557
+PRD0898,Electronics,Front of Store,294.07,No,Medium,Seniors,No,329.04,833
+PRD0899,Electronics,Front of Store,120.22,Yes,Medium,Seniors,Yes,102.66,841
+PRD0900,Food,End-cap,84.01,Yes,Low,College Students,No,73.56,673
+PRD0901,Clothing,Aisle,127.69,No,High,College Students,Yes,116.5,941
+PRD0902,Food,Front of Store,124.37,No,Low,College Students,No,106.7,402
+PRD0903,Electronics,End-cap,269.18,Yes,Low,College Students,No,243.45,711
+PRD0904,Food,Front of Store,396.66,Yes,Low,Young Adults,No,406.54,582
+PRD0905,Food,Front of Store,369.84,Yes,High,Families,Yes,361.12,1263
+PRD0906,Electronics,Aisle,383.2,No,Low,College Students,Yes,428.34,317
+PRD0907,Electronics,Front of Store,474.16,No,High,Seniors,Yes,519.32,265
+PRD0908,Clothing,Front of Store,289.97,,Medium,Families,Yes,276.21,748
+PRD0909,Clothing,Aisle,,,High,Families,Yes,455.95,1391
+PRD0910,Electronics,Front of Store,197.27,Yes,High,Families,Yes,190.15,1495
+PRD0911,Clothing,Front of Store,467.93,No,Low,Young Adults,Yes,480.61,595
+PRD0912,Electronics,Aisle,495.81,Yes,Medium,Young Adults,Yes,461.31,891
+PRD0913,Food,Aisle,90.99,Yes,High,College Students,No,94.38,1101
+PRD0914,Clothing,Front of Store,122.09,No,High,Seniors,No,118.77,953
+PRD0915,Electronics,Front of Store,162.41,No,Low,College Students,Yes,164.95,376
+PRD0916,Food,Front of Store,370.36,No,Medium,Families,No,363.26,543
+PRD0917,Food,Front of Store,182.6,No,Low,College Students,Yes,171.34,497
+PRD0918,Electronics,End-cap,297.82,Yes,Low,Families,No,337.89,953
+PRD0919,Electronics,Front of Store,353.21,Yes,Low,Seniors,No,381.14,575
+PRD0920,Food,Aisle,179.08,Yes,Low,Families,Yes,159.75,393
+PRD0921,Food,Aisle,,No,High,Young Adults,No,317.6,825
+PRD0922,Electronics,Aisle,75.34,No,Medium,College Students,Yes,75.06,590
+PRD0923,Electronics,Aisle,474.44,No,Medium,College Students,Yes,530.6,311
+PRD0924,Food,Front of Store,419.16,Yes,Low,Young Adults,Yes,456.87,186
+PRD0925,Food,Front of Store,406.15,No,Low,Young Adults,No,397.04,350
+PRD0926,Electronics,End-cap,485.34,,High,Young Adults,No,415.81,865
+PRD0927,Electronics,Front of Store,273.35,Yes,Low,Families,Yes,254.38,462
+PRD0928,Food,Aisle,91.9,Yes,Low,Young Adults,Yes,93.05,478
+PRD0929,Electronics,Front of Store,,,High,Seniors,No,24.74,1112
+PRD0930,Electronics,End-cap,32.8,No,Medium,College Students,Yes,30.42,1005
+PRD0931,Electronics,Front of Store,302.82,No,Medium,College Students,Yes,270.06,658
+PRD0932,Electronics,Front of Store,14.86,Yes,Low,Seniors,Yes,16.35,654
+PRD0933,Clothing,Aisle,241.6,Yes,Medium,College Students,Yes,276.71,848
+PRD0934,Clothing,End-cap,169.21,No,Medium,Young Adults,No,170.51,506
+PRD0935,Food,Front of Store,309.0,Yes,Medium,College Students,Yes,278.56,1023
+PRD0936,Clothing,Front of Store,404.19,No,High,Seniors,No,376.58,879
+PRD0937,Electronics,End-cap,173.68,Yes,Medium,Young Adults,Yes,148.59,1093
+PRD0938,Clothing,Front of Store,92.84,Yes,Low,Families,No,104.38,407
+PRD0939,Food,End-cap,402.2,Yes,Low,Families,No,356.08,340
+PRD0940,Food,End-cap,434.77,No,High,Young Adults,No,444.75,1438
+PRD0941,Food,Aisle,34.48,Yes,Low,College Students,Yes,32.14,506
+PRD0942,Clothing,Front of Store,78.12,No,High,Seniors,No,79.39,722
+PRD0943,Clothing,End-cap,353.82,Yes,Low,Young Adults,Yes,369.89,517
+PRD0944,Clothing,End-cap,75.12,Yes,Low,Seniors,No,82.55,937
+PRD0945,Food,End-cap,59.91,Yes,Low,Families,Yes,54.63,409
+PRD0946,Electronics,Aisle,265.52,No,Medium,Young Adults,Yes,226.57,746
+PRD0947,Electronics,Front of Store,185.62,Yes,High,Young Adults,No,165.4,853
+PRD0948,Food,Aisle,40.9,,Low,Seniors,No,45.81,458
+PRD0949,Food,Aisle,353.75,Yes,Low,Families,No,393.43,451
+PRD0950,Food,End-cap,332.76,Yes,Low,Families,No,342.48,827
+PRD0951,Food,End-cap,295.08,No,High,Young Adults,No,303.98,966
+PRD0952,Electronics,End-cap,171.6,Yes,Medium,Seniors,Yes,180.1,952
+PRD0953,Clothing,End-cap,164.69,Yes,High,Young Adults,Yes,148.65,1381
+PRD0954,Clothing,Aisle,488.05,Yes,High,College Students,No,548.73,750
+PRD0955,Electronics,End-cap,367.51,No,Medium,Families,Yes,358.55,855
+PRD0956,Clothing,Front of Store,221.25,Yes,Medium,Families,No,213.49,659
+PRD0957,Electronics,Aisle,321.44,No,Low,Young Adults,Yes,323.26,358
+PRD0958,Clothing,End-cap,246.16,No,High,Young Adults,No,212.7,736
+PRD0959,Electronics,Front of Store,162.06,No,High,Young Adults,No,145.84,208
+PRD0960,Clothing,End-cap,355.06,Yes,Medium,Families,Yes,380.41,943
+PRD0961,Food,Front of Store,283.18,Yes,Low,Families,No,247.74,941
+PRD0962,Food,End-cap,445.35,No,Low,Families,Yes,459.13,665
+PRD0963,Clothing,End-cap,308.79,No,Medium,College Students,No,285.2,695
+PRD0964,Electronics,Aisle,181.63,Yes,Low,Young Adults,No,175.6,419
+PRD0965,Clothing,End-cap,334.44,No,Low,Families,No,313.24,493
+PRD0966,Clothing,Front of Store,408.15,Yes,Low,College Students,No,390.48,635
+PRD0967,Food,Front of Store,192.3,No,High,Young Adults,Yes,204.94,639
+PRD0968,Electronics,Aisle,368.33,No,Medium,Seniors,Yes,345.91,667
+PRD0969,Food,End-cap,150.79,No,Low,Seniors,No,153.79,654
+PRD0970,Clothing,Aisle,92.97,No,Medium,Young Adults,Yes,92.3,607
+PRD0971,Food,End-cap,5.89,Yes,Low,Young Adults,No,6.18,792
+PRD0972,Electronics,Aisle,352.49,Yes,Low,Young Adults,No,398.68,503
+PRD0973,Clothing,End-cap,288.55,No,Medium,Seniors,Yes,308.68,925
+PRD0974,Clothing,End-cap,426.12,No,High,College Students,Yes,389.68,1236
+PRD0975,Food,Aisle,386.56,No,Medium,Seniors,No,332.19,446
+PRD0976,Electronics,Aisle,285.9,No,Low,Families,No,265.51,289
+PRD0977,Electronics,Aisle,95.13,Yes,Medium,Young Adults,Yes,97.84,736
+PRD0978,Electronics,Aisle,162.52,Yes,Low,Seniors,Yes,140.65,666
+PRD0979,Electronics,End-cap,405.36,Yes,Low,Young Adults,Yes,404.92,400
+PRD0980,Electronics,End-cap,307.63,No,High,College Students,No,316.57,646
+PRD0981,Clothing,Front of Store,321.63,No,Medium,Families,Yes,305.64,629
+PRD0982,Clothing,End-cap,56.53,No,Low,Seniors,No,61.12,547
+PRD0983,Electronics,Aisle,250.61,No,Medium,College Students,Yes,221.03,526
+PRD0984,Electronics,Aisle,168.93,No,Medium,College Students,Yes,147.4,536
+PRD0985,Clothing,End-cap,43.51,Yes,Low,Families,No,46.49,653
+PRD0986,Clothing,Front of Store,176.67,No,Medium,Families,Yes,176.43,868
+PRD0987,Electronics,Front of Store,163.16,Yes,High,Families,No,172.38,668
+PRD0988,Electronics,End-cap,319.91,Yes,Low,College Students,No,313.66,478
+PRD0989,Clothing,Aisle,481.72,No,High,Seniors,No,445.07,726
+PRD0990,Food,Aisle,411.72,Yes,Medium,College Students,No,451.13,362
+PRD0991,Food,End-cap,336.66,No,Medium,Seniors,No,366.9,729
+PRD0992,Food,Front of Store,366.0,Yes,Low,College Students,No,387.38,899
+PRD0993,Clothing,End-cap,171.2,No,Medium,Families,Yes,159.5,704
+PRD0994,Clothing,End-cap,10.64,,Low,Young Adults,No,10.93,749
+PRD0995,Clothing,End-cap,108.79,No,Low,College Students,Yes,104.25,304
+PRD0996,Food,End-cap,,Yes,High,College Students,No,305.47,1112
+PRD0997,Electronics,Aisle,178.49,No,High,Young Adults,No,200.84,732
+PRD0998,Clothing,Aisle,394.57,No,Low,College Students,Yes,351.58,316
+PRD0999,Clothing,End-cap,361.6,No,Medium,College Students,Yes,410.44,1066
+PRD1000,Clothing,Front of Store,28.83,No,Low,College Students,No,28.36,490
+PRD1001,Food,End-cap,221.92,Yes,Low,College Students,No,200.96,424
+PRD1002,Electronics,Aisle,212.73,Yes,Medium,College Students,Yes,215.4,767
+PRD1003,Food,Aisle,87.34,Yes,Medium,Seniors,No,97.11,821
+PRD1004,Food,Front of Store,209.94,Yes,Medium,Seniors,Yes,224.57,1151
+PRD1005,Food,End-cap,441.48,Yes,Low,Seniors,Yes,482.08,1032
+PRD1006,Clothing,Aisle,178.86,Yes,Medium,College Students,Yes,187.38,497
+PRD1007,Food,Aisle,190.8,Yes,Low,College Students,No,201.81,378
+PRD1008,Electronics,End-cap,415.26,Yes,Medium,Seniors,Yes,458.76,623
+PRD1009,Electronics,End-cap,395.42,Yes,High,Families,Yes,365.72,1269
+PRD1010,Electronics,Front of Store,291.14,No,Low,Seniors,No,290.22,478
+PRD1011,Electronics,Front of Store,380.33,Yes,High,College Students,No,348.52,1516
+PRD1012,Food,Front of Store,116.66,Yes,High,College Students,No,133.73,1257
+PRD1013,Electronics,End-cap,228.39,Yes,Low,Families,Yes,258.82,633
+PRD1014,Electronics,End-cap,400.6,No,High,Seniors,Yes,345.25,1097
+PRD1015,Food,Front of Store,21.54,No,High,Young Adults,Yes,22.87,741
+PRD1016,Food,Aisle,,No,Low,Families,No,16.85,626
+PRD1017,Clothing,Aisle,134.26,Yes,Low,College Students,No,121.39,235
+PRD1018,Food,End-cap,56.84,No,Medium,Families,Yes,58.0,812
+PRD1019,Food,Aisle,174.2,Yes,High,Families,No,195.91,1723
+PRD1020,Clothing,End-cap,444.53,,Medium,Young Adults,No,382.38,911
+PRD1021,Clothing,Front of Store,84.65,Yes,Low,Young Adults,No,89.66,566
+PRD1022,Food,End-cap,42.13,Yes,High,Families,Yes,39.57,1218
+PRD1023,Clothing,End-cap,471.21,No,Medium,Seniors,No,531.2,728
+PRD1024,Electronics,End-cap,489.13,Yes,Medium,Families,No,558.25,1413
+PRD1025,Food,Aisle,172.29,No,Medium,Young Adults,No,195.25,185
+PRD1026,Clothing,End-cap,492.71,Yes,Low,Young Adults,Yes,488.9,930
+PRD1027,Clothing,Aisle,,No,High,Young Adults,Yes,495.72,472
+PRD1028,Clothing,Front of Store,353.73,No,Medium,Young Adults,Yes,390.29,607
+PRD1029,Clothing,Front of Store,218.51,No,High,Young Adults,Yes,206.65,784
+PRD1030,Food,Aisle,328.55,Yes,Low,College Students,Yes,360.97,588
+PRD1031,Clothing,End-cap,305.62,No,Low,Families,Yes,263.17,255
+PRD1032,Clothing,Front of Store,219.93,Yes,Medium,Seniors,No,226.28,976
+PRD1033,Clothing,End-cap,31.51,Yes,Medium,Seniors,Yes,28.96,1462
+PRD1034,Electronics,Aisle,168.89,No,High,College Students,Yes,149.67,443
+PRD1035,Electronics,End-cap,487.33,Yes,Low,Families,Yes,425.48,673
+PRD1036,Food,Front of Store,207.59,Yes,High,Young Adults,No,219.81,1031
+PRD1037,Food,End-cap,279.29,Yes,Low,Young Adults,No,265.87,718
+PRD1038,Electronics,Front of Store,463.16,Yes,High,Seniors,Yes,494.39,1294
+PRD1039,Electronics,End-cap,272.36,Yes,Low,Seniors,No,236.85,514
+PRD1040,Clothing,Front of Store,,No,Medium,College Students,No,313.6,687
+PRD1041,Clothing,Front of Store,152.21,Yes,Low,Families,No,154.01,925
+PRD1042,Electronics,Front of Store,52.48,Yes,Low,Families,No,57.06,566
+PRD1043,Food,Aisle,199.49,Yes,Medium,Young Adults,No,188.64,790
+PRD1044,Electronics,Aisle,277.08,Yes,High,Families,Yes,287.54,656
+PRD1045,Food,Aisle,248.02,No,High,Families,No,276.74,588
+PRD1046,Electronics,End-cap,31.98,Yes,Low,College Students,Yes,33.09,800
+PRD1047,Clothing,End-cap,6.89,No,Medium,College Students,Yes,6.34,1011
+PRD1048,Food,End-cap,48.38,No,High,Young Adults,Yes,41.48,1162
+PRD1049,Clothing,Front of Store,,No,Medium,College Students,Yes,458.67,598
+PRD1050,Electronics,End-cap,314.42,Yes,Medium,Young Adults,No,269.26,909
+PRD1051,Food,Aisle,,Yes,High,College Students,Yes,270.05,670
+PRD1052,Food,Aisle,53.01,Yes,Low,College Students,No,53.47,591
+PRD1053,Food,Front of Store,107.44,No,Medium,Seniors,Yes,121.59,834
+PRD1054,Clothing,Front of Store,320.9,No,Medium,Seniors,No,349.66,570
+PRD1055,Electronics,End-cap,488.64,Yes,Low,College Students,Yes,561.63,601
+PRD1056,Clothing,Front of Store,239.42,No,Low,College Students,No,228.7,453
+PRD1057,Food,Aisle,62.18,No,High,College Students,Yes,67.16,716
+PRD1058,Clothing,Aisle,393.51,No,Low,Seniors,Yes,381.93,343
+PRD1059,Food,Aisle,238.12,No,High,Young Adults,Yes,236.68,1222
+PRD1060,Clothing,Aisle,447.96,No,High,Families,Yes,465.1,763
+PRD1061,Electronics,Front of Store,136.18,No,Medium,College Students,Yes,151.45,589
+PRD1062,Clothing,End-cap,322.72,No,Low,College Students,Yes,369.59,434
+PRD1063,Clothing,End-cap,196.83,,Low,Seniors,Yes,212.67,659
+PRD1064,Clothing,Front of Store,188.66,Yes,Medium,College Students,No,184.01,737
+PRD1065,Clothing,End-cap,193.82,Yes,Medium,Young Adults,Yes,189.25,732
+PRD1066,Electronics,Aisle,97.36,No,Low,Families,No,104.3,537
+PRD1067,Food,Front of Store,27.09,No,High,College Students,Yes,24.97,1283
+PRD1068,Food,Front of Store,222.67,No,Low,Young Adults,Yes,196.65,344
+PRD1069,Food,Aisle,135.38,No,Low,Families,No,129.48,154
+PRD1070,Electronics,End-cap,419.35,No,Medium,Seniors,Yes,392.58,911
+PRD1071,Electronics,Front of Store,284.3,No,High,Families,Yes,266.93,715
+PRD1072,Clothing,End-cap,79.81,Yes,Medium,Young Adults,Yes,73.43,1125
+PRD1073,Electronics,Aisle,349.75,Yes,Low,Families,Yes,301.7,186
+PRD1074,Food,End-cap,52.87,No,High,Families,No,45.22,1331
+PRD1075,Electronics,Front of Store,335.73,Yes,Medium,Seniors,No,384.85,546
+PRD1076,Food,Front of Store,405.05,Yes,High,Families,No,396.27,1426
+PRD1077,Electronics,End-cap,209.92,No,High,Seniors,Yes,202.64,1054
+PRD1078,Electronics,Front of Store,379.45,Yes,High,College Students,Yes,399.9,918
+PRD1079,Food,End-cap,117.62,No,Low,Families,No,107.68,430
+PRD1080,Food,Front of Store,35.19,Yes,Medium,Families,No,39.94,1034
+PRD1081,Electronics,Front of Store,196.62,Yes,Medium,Seniors,No,213.51,885
+PRD1082,Electronics,Front of Store,263.68,No,Low,Families,Yes,231.2,493
+PRD1083,Clothing,End-cap,482.99,Yes,High,Young Adults,No,471.05,2174
+PRD1084,Food,Front of Store,345.1,No,Medium,Seniors,Yes,384.35,350
+PRD1085,Clothing,Front of Store,,Yes,Low,Seniors,No,531.01,891
+PRD1086,Electronics,End-cap,288.49,Yes,Medium,College Students,Yes,285.67,938
+PRD1087,Food,End-cap,121.64,Yes,High,Families,No,125.78,1096
+PRD1088,Electronics,Aisle,152.93,No,Medium,Young Adults,No,137.65,300
+PRD1089,Food,End-cap,200.43,No,High,College Students,No,229.96,1089
+PRD1090,Electronics,End-cap,,Yes,High,Families,No,393.27,1742
+PRD1091,Clothing,Front of Store,,Yes,Low,College Students,No,25.14,577
+PRD1092,Clothing,Aisle,287.75,No,High,Families,Yes,300.67,1199
+PRD1093,Clothing,End-cap,,No,Low,Young Adults,No,269.25,304
+PRD1094,Food,Front of Store,287.89,Yes,Medium,College Students,Yes,288.99,854
+PRD1095,Food,End-cap,491.46,Yes,High,Seniors,Yes,451.75,852
+PRD1096,Food,Front of Store,77.99,No,Medium,College Students,Yes,70.42,665
+PRD1097,Clothing,Front of Store,474.88,No,High,Families,Yes,435.06,1139
+PRD1098,Food,Front of Store,227.27,Yes,Low,Young Adults,Yes,205.89,477
+PRD1099,Electronics,Aisle,474.79,No,Medium,College Students,No,514.61,120
+PRD1100,Food,Front of Store,87.75,Yes,Medium,Young Adults,Yes,83.8,826
+PRD1101,Clothing,End-cap,109.89,,Medium,Families,No,95.31,1029
+PRD1102,Clothing,End-cap,100.4,No,High,Families,No,114.53,1295
+PRD1103,Electronics,Front of Store,26.12,No,High,Families,No,29.13,1357
+PRD1104,Food,Front of Store,43.79,Yes,High,Seniors,Yes,49.41,873
+PRD1105,Food,Front of Store,,,High,Young Adults,No,394.1,1192
+PRD1106,Electronics,Aisle,104.95,Yes,Low,Seniors,Yes,94.68,617
+PRD1107,Electronics,Front of Store,412.17,No,High,Seniors,No,399.34,419
+PRD1108,Clothing,Aisle,78.2,Yes,Low,Young Adults,No,84.26,548
+PRD1109,Food,Front of Store,299.55,No,High,Families,No,317.17,840
+PRD1110,Electronics,End-cap,163.28,Yes,Medium,Seniors,No,146.33,887
+PRD1111,Food,Aisle,364.92,Yes,High,Young Adults,No,399.5,1184
+PRD1112,Electronics,Front of Store,,No,Low,College Students,Yes,371.19,358
+PRD1113,Clothing,Front of Store,48.08,No,High,Seniors,Yes,44.1,717
+PRD1114,Electronics,Front of Store,280.4,No,High,Families,Yes,283.51,1000
+PRD1115,Electronics,Front of Store,278.27,No,Medium,Young Adults,Yes,286.03,444
+PRD1116,Electronics,End-cap,429.03,Yes,Low,Seniors,No,439.34,472
+PRD1117,Electronics,Aisle,262.25,Yes,Low,Families,No,230.11,547
+PRD1118,Electronics,Front of Store,459.0,Yes,Medium,Families,No,510.98,562
+PRD1119,Food,Aisle,11.12,No,Medium,Young Adults,No,10.34,599
+PRD1120,Clothing,Aisle,351.7,Yes,Medium,College Students,Yes,312.61,740
+PRD1121,Clothing,Front of Store,295.85,No,High,Families,No,330.35,477
+PRD1122,Electronics,Front of Store,391.93,Yes,Low,Young Adults,Yes,445.51,478
+PRD1123,Electronics,Aisle,60.7,No,Medium,Seniors,No,67.29,747
+PRD1124,Food,Aisle,79.07,Yes,Medium,College Students,Yes,86.41,504
+PRD1125,Electronics,Aisle,285.46,No,Low,Young Adults,Yes,298.75,331
+PRD1126,Electronics,End-cap,,Yes,High,Young Adults,Yes,297.91,1709
+PRD1127,Food,End-cap,482.59,Yes,High,College Students,Yes,422.8,1685
+PRD1128,Electronics,End-cap,54.6,Yes,High,Families,Yes,53.1,1261
+PRD1129,Food,Aisle,57.29,No,Low,Families,Yes,55.1,287
+PRD1130,Clothing,End-cap,390.87,No,High,Seniors,Yes,362.7,1498
+PRD1131,Electronics,Front of Store,393.94,,High,Seniors,No,420.34,1958
+PRD1132,Clothing,Aisle,434.4,Yes,Low,Seniors,Yes,433.86,588
+PRD1133,Electronics,End-cap,440.67,No,Low,College Students,Yes,385.28,502
+PRD1134,Electronics,Front of Store,439.56,No,Medium,College Students,No,402.66,454
+PRD1135,Electronics,Front of Store,135.75,No,Low,Families,No,143.21,346
+PRD1136,Clothing,End-cap,329.12,Yes,High,Young Adults,No,287.27,1578
+PRD1137,Electronics,Front of Store,288.15,Yes,Low,Families,Yes,318.51,675
+PRD1138,Food,Front of Store,,No,High,Young Adults,Yes,238.81,1278
+PRD1139,Clothing,Aisle,90.24,Yes,Medium,College Students,Yes,89.71,776
+PRD1140,Food,Front of Store,204.47,No,High,College Students,Yes,210.14,543
+PRD1141,Food,Aisle,311.03,Yes,High,Families,Yes,341.33,1410
+PRD1142,Electronics,Front of Store,342.0,No,High,College Students,No,326.39,630
+PRD1143,Electronics,Aisle,203.85,No,Low,Families,No,214.74,340
+PRD1144,Clothing,Front of Store,200.92,Yes,High,College Students,No,204.88,1383
+PRD1145,Clothing,End-cap,440.08,,Low,Seniors,No,409.32,783
+PRD1146,Food,Front of Store,346.8,No,Medium,Families,No,386.19,1275
+PRD1147,Electronics,End-cap,29.4,Yes,Medium,Young Adults,Yes,32.02,1183
+PRD1148,Food,Front of Store,240.23,Yes,Medium,Families,No,251.65,810
+PRD1149,Electronics,End-cap,137.95,No,High,Seniors,Yes,152.46,1340
+PRD1150,Food,End-cap,189.36,Yes,High,Seniors,No,210.23,1901
+PRD1151,Electronics,Aisle,172.24,No,Medium,Young Adults,No,183.01,497
+PRD1152,Clothing,End-cap,397.86,No,Medium,College Students,Yes,438.09,1184
+PRD1153,Clothing,Front of Store,158.92,,Low,College Students,Yes,168.33,642
+PRD1154,Electronics,End-cap,422.21,Yes,Low,Families,No,445.03,805
+PRD1155,Food,Front of Store,429.83,Yes,Medium,Seniors,Yes,445.12,1029
+PRD1156,Clothing,End-cap,344.0,Yes,Medium,Seniors,No,370.08,1127
+PRD1157,Electronics,Front of Store,486.39,,Medium,Young Adults,Yes,436.57,751
+PRD1158,Electronics,Front of Store,117.84,No,Medium,Seniors,Yes,131.3,537
+PRD1159,Food,Front of Store,153.74,No,High,Seniors,Yes,170.89,824
+PRD1160,Electronics,Front of Store,373.14,,High,College Students,No,320.44,783
+PRD1161,Clothing,Front of Store,388.15,Yes,Low,College Students,No,426.09,679
+PRD1162,Clothing,End-cap,163.83,No,Medium,Families,Yes,145.59,863
+PRD1163,Food,Front of Store,365.76,No,High,Families,Yes,347.67,1023
+PRD1164,Food,End-cap,304.46,No,High,College Students,No,326.7,1735
+PRD1165,Clothing,Aisle,49.2,No,High,Young Adults,No,44.19,748
+PRD1166,Food,Aisle,223.65,Yes,High,Seniors,No,244.98,1287
+PRD1167,Clothing,End-cap,457.15,No,Medium,Families,No,502.7,517
+PRD1168,Electronics,Front of Store,206.55,No,Medium,Families,No,207.01,583
+PRD1169,Food,End-cap,244.81,Yes,High,College Students,Yes,208.56,1649
+PRD1170,Clothing,Aisle,260.67,No,Medium,Young Adults,Yes,244.02,627
+PRD1171,Food,End-cap,190.09,Yes,High,Young Adults,Yes,196.76,1369
+PRD1172,Electronics,End-cap,32.82,No,High,College Students,Yes,37.56,1130
+PRD1173,Clothing,Front of Store,,No,Low,Young Adults,Yes,412.48,251
+PRD1174,Clothing,Aisle,37.48,Yes,Low,Seniors,Yes,34.78,406
+PRD1175,Clothing,Front of Store,356.24,No,Medium,Young Adults,No,370.56,836
+PRD1176,Electronics,Front of Store,204.68,Yes,Low,Families,No,207.14,704
+PRD1177,Clothing,End-cap,391.36,Yes,Low,Seniors,No,424.22,805
+PRD1178,Food,End-cap,264.52,Yes,Medium,Families,Yes,233.33,923
+PRD1179,Clothing,End-cap,286.49,No,Low,Young Adults,No,308.92,540
+PRD1180,Electronics,End-cap,91.0,Yes,Medium,Families,No,92.13,802
+PRD1181,Food,Front of Store,438.21,Yes,Low,College Students,Yes,499.08,726
+PRD1182,Electronics,Front of Store,104.36,Yes,Low,Families,Yes,99.41,614
+PRD1183,Food,End-cap,33.53,Yes,Low,Seniors,Yes,34.86,804
+PRD1184,Food,End-cap,21.37,Yes,Medium,Young Adults,Yes,24.14,843
+PRD1185,Electronics,Aisle,30.03,Yes,Low,College Students,Yes,26.45,161
+PRD1186,Electronics,Front of Store,183.39,No,High,Seniors,No,207.44,1315
+PRD1187,Electronics,Front of Store,103.56,Yes,Low,Young Adults,Yes,109.4,514
+PRD1188,Electronics,Front of Store,187.33,No,Medium,Young Adults,Yes,163.04,444
+PRD1189,Clothing,End-cap,234.79,Yes,Low,Young Adults,No,220.77,769
+PRD1190,Electronics,End-cap,201.49,No,Low,College Students,Yes,214.07,475
+PRD1191,Food,End-cap,461.92,No,High,Young Adults,No,401.97,1383
+PRD1192,Clothing,Aisle,342.18,No,High,Seniors,Yes,350.62,977
+PRD1193,Electronics,End-cap,124.76,Yes,Low,Young Adults,Yes,118.99,767
+PRD1194,Clothing,Aisle,246.95,No,Medium,Young Adults,Yes,255.91,324
+PRD1195,Food,End-cap,225.82,Yes,Medium,Seniors,Yes,195.05,1240
+PRD1196,Food,Front of Store,,Yes,High,College Students,Yes,534.01,1387
+PRD1197,Food,Aisle,239.92,Yes,High,Young Adults,No,274.0,953
+PRD1198,Clothing,End-cap,277.91,No,Low,Families,No,317.0,562
+PRD1199,Clothing,End-cap,175.4,No,Medium,Seniors,No,188.54,359
+PRD1200,Electronics,Front of Store,419.64,Yes,Medium,Families,Yes,373.07,875
+PRD1201,Electronics,End-cap,133.04,Yes,Medium,College Students,No,143.35,691
+PRD1202,Electronics,Front of Store,416.28,No,Medium,Families,Yes,356.91,356
+PRD1203,Food,End-cap,49.74,Yes,High,Families,No,42.61,741
+PRD1204,Electronics,Aisle,18.59,No,High,Seniors,No,17.61,1000
+PRD1205,Clothing,Aisle,29.58,Yes,Low,College Students,No,29.48,369
+PRD1206,Electronics,Front of Store,427.64,Yes,Medium,College Students,Yes,462.33,1252
+PRD1207,Food,End-cap,391.02,No,Low,College Students,Yes,412.52,452
+PRD1208,Electronics,Front of Store,111.09,Yes,Low,Families,No,109.29,266
+PRD1209,Food,Front of Store,114.57,No,Low,Families,Yes,106.79,279
+PRD1210,Food,End-cap,116.43,Yes,Low,Families,No,133.79,960
+PRD1211,Food,Aisle,107.33,No,High,College Students,Yes,104.95,714
+PRD1212,Electronics,Aisle,327.54,Yes,High,Families,No,322.76,814
+PRD1213,Clothing,Front of Store,259.07,Yes,Medium,Young Adults,Yes,232.93,817
+PRD1214,Electronics,Front of Store,432.99,,Medium,College Students,Yes,471.28,759
+PRD1215,Food,Front of Store,483.73,No,High,Young Adults,No,511.84,1321
+PRD1216,Electronics,Aisle,,No,Medium,College Students,No,313.98,717
+PRD1217,Electronics,Aisle,239.68,Yes,High,Seniors,Yes,209.65,869
+PRD1218,Electronics,Aisle,70.5,Yes,High,Families,No,74.32,645
+PRD1219,Food,Front of Store,90.73,No,Medium,Families,Yes,94.94,578
+PRD1220,Food,Front of Store,401.43,No,Medium,College Students,No,374.12,646
+PRD1221,Electronics,Aisle,115.77,Yes,High,Young Adults,No,131.43,762
+PRD1222,Electronics,Front of Store,306.13,No,High,Seniors,Yes,274.08,641
+PRD1223,Electronics,Aisle,,Yes,High,College Students,No,462.21,1075
+PRD1224,Clothing,Aisle,357.81,No,High,Families,Yes,405.43,812
+PRD1225,Food,Aisle,356.14,No,High,Seniors,No,347.56,757
+PRD1226,Clothing,End-cap,141.31,Yes,Medium,Families,Yes,147.18,773
+PRD1227,Food,End-cap,448.26,Yes,Medium,Young Adults,No,434.49,847
+PRD1228,Electronics,Front of Store,426.54,Yes,Medium,Young Adults,No,397.65,563
+PRD1229,Clothing,End-cap,232.2,No,High,Seniors,Yes,265.91,1463
+PRD1230,Electronics,Aisle,113.01,Yes,Low,Families,No,109.94,596
+PRD1231,Clothing,Front of Store,154.56,Yes,Medium,Young Adults,Yes,172.83,382
+PRD1232,Electronics,Aisle,262.72,,Low,Seniors,No,241.44,328
+PRD1233,Food,Aisle,313.69,No,Medium,Seniors,Yes,286.69,275
+PRD1234,Electronics,Front of Store,294.32,No,Low,College Students,No,252.92,338
+PRD1235,Food,Aisle,8.64,No,Medium,Young Adults,Yes,9.03,536
+PRD1236,Electronics,End-cap,499.72,No,Medium,Families,Yes,480.01,395
+PRD1237,Electronics,Front of Store,,Yes,Medium,Young Adults,Yes,536.25,620
+PRD1238,Food,End-cap,420.49,Yes,Low,College Students,No,417.11,445
+PRD1239,Food,End-cap,282.92,No,Low,Seniors,Yes,322.66,572
+PRD1240,Clothing,Front of Store,298.92,No,Medium,Families,No,270.72,612
+PRD1241,Electronics,Aisle,144.93,No,Medium,Seniors,Yes,160.96,430
+PRD1242,Clothing,End-cap,343.78,No,Medium,College Students,No,372.31,810
+PRD1243,Clothing,End-cap,243.46,Yes,Low,Families,Yes,263.25,585
+PRD1244,Food,End-cap,171.46,No,High,Young Adults,Yes,189.19,1060
+PRD1245,Food,Front of Store,141.86,Yes,Low,College Students,No,152.97,902
+PRD1246,Electronics,Aisle,165.94,No,High,Seniors,Yes,172.22,1156
+PRD1247,Clothing,Aisle,142.06,No,High,Seniors,Yes,126.34,457
+PRD1248,Electronics,Front of Store,329.78,Yes,Medium,Seniors,Yes,283.53,974
+PRD1249,Clothing,Front of Store,476.33,No,Low,Families,Yes,536.47,574
+PRD1250,Food,Aisle,327.48,Yes,Low,Seniors,No,338.94,328
+PRD1251,Electronics,Front of Store,98.24,Yes,High,Families,Yes,106.98,1603
+PRD1252,Clothing,Front of Store,261.06,No,High,Seniors,No,259.61,1315
+PRD1253,Food,Front of Store,123.95,No,High,Young Adults,No,109.72,596
+PRD1254,Clothing,Aisle,33.1,Yes,Low,Seniors,Yes,29.38,329
+PRD1255,Electronics,Aisle,429.37,Yes,Low,Young Adults,Yes,453.27,653
+PRD1256,Food,End-cap,405.96,No,Low,Seniors,Yes,397.47,529
+PRD1257,Clothing,Aisle,205.03,Yes,Low,Families,Yes,186.61,530
+PRD1258,Clothing,Aisle,163.19,No,Low,Young Adults,No,162.78,385
+PRD1259,Electronics,End-cap,74.27,Yes,Medium,College Students,No,64.56,1016
+PRD1260,Electronics,End-cap,17.6,Yes,High,Families,Yes,18.03,903
+PRD1261,Electronics,Aisle,251.2,No,Low,College Students,Yes,233.79,459
+PRD1262,Food,Front of Store,151.32,No,Medium,Families,Yes,164.83,891
+PRD1263,Food,End-cap,453.92,No,Medium,Young Adults,Yes,428.1,651
+PRD1264,Electronics,Aisle,,No,Medium,College Students,Yes,202.52,493
+PRD1265,Food,Aisle,369.68,Yes,Low,College Students,Yes,315.52,246
+PRD1266,Clothing,End-cap,293.6,,Low,Young Adults,Yes,255.94,735
+PRD1267,Electronics,Front of Store,,Yes,High,Families,No,481.36,1370
+PRD1268,Food,Front of Store,408.93,Yes,High,College Students,Yes,406.47,1148
+PRD1269,Food,Aisle,174.87,Yes,Low,College Students,Yes,180.12,669
+PRD1270,Electronics,End-cap,,No,High,Young Adults,Yes,335.74,944
+PRD1271,Electronics,End-cap,344.73,Yes,Medium,Families,Yes,364.89,1170
+PRD1272,Food,End-cap,320.97,No,Medium,Seniors,No,355.65,534
+PRD1273,Food,Front of Store,240.49,Yes,Low,Families,Yes,260.68,596
+PRD1274,Electronics,Front of Store,470.63,Yes,Medium,Young Adults,Yes,405.63,739
+PRD1275,Food,Front of Store,182.46,No,Medium,College Students,Yes,181.39,640
+PRD1276,Clothing,End-cap,153.6,Yes,High,College Students,No,135.4,1213
+PRD1277,Food,Aisle,89.14,,Low,Young Adults,No,82.24,437
+PRD1278,Clothing,Front of Store,330.52,Yes,High,Families,Yes,378.78,1605
+PRD1279,Clothing,End-cap,281.33,No,Medium,College Students,No,251.16,608
+PRD1280,Food,End-cap,150.42,Yes,Low,Seniors,No,150.37,329
+PRD1281,Food,Aisle,238.04,Yes,Low,Young Adults,No,246.48,763
+PRD1282,Electronics,Aisle,371.75,No,Medium,Families,Yes,394.33,777
+PRD1283,Clothing,End-cap,363.97,No,Medium,Families,Yes,370.48,471
+PRD1284,Food,Aisle,281.72,,Low,Seniors,Yes,240.29,422
+PRD1285,Clothing,Front of Store,,No,Medium,College Students,No,432.97,509
+PRD1286,Electronics,End-cap,473.73,No,Medium,Families,Yes,476.25,830
+PRD1287,Clothing,Front of Store,450.3,No,Low,Seniors,Yes,394.62,457
+PRD1288,Food,End-cap,328.95,Yes,Low,Seniors,Yes,314.21,592
+PRD1289,Food,Front of Store,115.02,Yes,High,Seniors,Yes,98.91,894
+PRD1290,Clothing,Aisle,115.55,,High,Young Adults,No,100.94,773
+PRD1291,Electronics,Aisle,436.36,Yes,High,Young Adults,Yes,422.87,707
+PRD1292,Clothing,Front of Store,213.13,Yes,Medium,Families,No,189.65,585
+PRD1293,Food,End-cap,443.99,Yes,High,Families,Yes,452.99,1471
+PRD1294,Electronics,End-cap,188.98,No,High,Families,Yes,199.72,906
+PRD1295,Clothing,Front of Store,294.86,Yes,Medium,College Students,Yes,321.45,1033
+PRD1296,Clothing,Front of Store,234.56,Yes,Medium,College Students,Yes,213.46,1128
+PRD1297,Electronics,Aisle,63.3,Yes,Medium,Families,Yes,56.99,536
+PRD1298,Clothing,Aisle,31.57,Yes,High,Young Adults,No,27.82,1045
+PRD1299,Electronics,Front of Store,319.03,No,High,Young Adults,No,332.09,1138
+PRD1300,Electronics,Front of Store,292.25,Yes,Low,Seniors,Yes,310.35,685
+PRD1301,Electronics,End-cap,312.22,No,High,Families,No,268.35,1073
+PRD1302,Electronics,End-cap,238.75,Yes,High,College Students,No,269.99,1836
+PRD1303,Clothing,Front of Store,101.3,No,Medium,Seniors,Yes,87.68,686
+PRD1304,Clothing,End-cap,64.31,,Medium,Young Adults,No,65.11,484
+PRD1305,Food,Aisle,341.95,Yes,High,Families,Yes,363.4,1352
+PRD1306,Electronics,End-cap,267.27,No,Low,Young Adults,No,297.01,682
+PRD1307,Food,Front of Store,209.49,No,High,Seniors,Yes,222.94,763
+PRD1308,Food,Aisle,436.07,No,Medium,Families,Yes,475.54,556
+PRD1309,Clothing,Aisle,79.64,Yes,Low,College Students,Yes,75.8,548
+PRD1310,Clothing,Aisle,496.21,Yes,Low,Families,Yes,543.08,469
+PRD1311,Clothing,End-cap,174.62,Yes,High,College Students,No,152.62,1804
+PRD1312,Clothing,End-cap,,Yes,High,Families,No,552.13,2566
+PRD1313,Food,Aisle,446.96,Yes,Low,Families,Yes,453.34,382
+PRD1314,Electronics,Aisle,493.39,No,Medium,Families,No,540.36,322
+PRD1315,Food,End-cap,75.9,Yes,Low,Families,Yes,74.81,695
+PRD1316,Food,End-cap,431.89,No,Medium,College Students,No,450.49,936
+PRD1317,Clothing,Aisle,94.28,No,High,Young Adults,Yes,95.03,767
+PRD1318,Electronics,End-cap,45.0,Yes,Low,Families,Yes,48.13,1006
+PRD1319,Food,End-cap,169.65,Yes,Medium,Seniors,Yes,148.36,544
+PRD1320,Clothing,End-cap,493.39,Yes,Medium,Families,Yes,428.31,1099
+PRD1321,Clothing,End-cap,160.14,Yes,Low,College Students,No,147.99,521
+PRD1322,Electronics,Front of Store,33.72,Yes,Medium,Families,No,30.28,1182
+PRD1323,Food,Front of Store,228.77,No,Low,Young Adults,Yes,254.29,738
+PRD1324,Electronics,Front of Store,108.64,No,High,College Students,No,99.49,693
+PRD1325,Electronics,Aisle,387.9,No,High,Families,Yes,443.28,688
+PRD1326,Electronics,End-cap,290.26,No,Low,Families,No,276.06,616
+PRD1327,Food,Front of Store,83.43,Yes,High,Families,No,75.47,1034
+PRD1328,Clothing,End-cap,393.68,No,High,Families,No,427.89,1139
+PRD1329,Electronics,Front of Store,,No,Low,Young Adults,Yes,409.6,465
+PRD1330,Electronics,Aisle,69.06,Yes,Medium,College Students,No,69.02,275
+PRD1331,Food,Aisle,219.69,No,Low,College Students,No,223.34,383
+PRD1332,Food,Front of Store,217.56,No,Low,Families,No,231.87,366
+PRD1333,Clothing,Aisle,217.37,No,Low,College Students,No,199.66,298
+PRD1334,Clothing,End-cap,241.31,Yes,High,Seniors,Yes,277.24,2151
+PRD1335,Electronics,End-cap,7.31,Yes,Medium,Families,Yes,8.35,623
+PRD1336,Electronics,Aisle,269.22,No,High,College Students,Yes,281.36,1026
+PRD1337,Food,End-cap,366.68,No,High,College Students,Yes,333.63,962
+PRD1338,Electronics,Front of Store,475.28,Yes,Low,College Students,No,500.98,550
+PRD1339,Food,Front of Store,446.54,Yes,High,College Students,Yes,389.23,1447
+PRD1340,Electronics,Front of Store,379.64,No,Medium,Families,No,326.19,661
+PRD1341,Food,End-cap,267.86,Yes,Low,Young Adults,No,248.39,746
+PRD1342,Electronics,Front of Store,13.87,No,Medium,Families,No,13.71,774
+PRD1343,Electronics,Aisle,7.04,Yes,Medium,College Students,Yes,7.82,643
+PRD1344,Electronics,Front of Store,368.13,Yes,High,Young Adults,Yes,393.22,1050
+PRD1345,Clothing,End-cap,117.0,No,High,Seniors,No,125.52,778
+PRD1346,Electronics,End-cap,439.11,No,High,Families,No,429.3,789
+PRD1347,Electronics,Front of Store,159.49,No,Low,Families,Yes,152.12,791
+PRD1348,Clothing,Aisle,55.84,No,High,Families,Yes,53.68,1030
+PRD1349,Clothing,Aisle,254.15,No,Medium,Families,No,291.33,327
+PRD1350,Electronics,Aisle,156.53,No,Medium,Seniors,Yes,134.93,301
+PRD1351,Food,End-cap,37.32,Yes,Low,Seniors,Yes,41.43,801
+PRD1352,Electronics,Aisle,27.63,No,High,Young Adults,No,28.28,960
+PRD1353,Food,End-cap,474.49,No,Medium,Young Adults,No,465.75,815
+PRD1354,Electronics,Front of Store,230.68,Yes,Medium,College Students,No,246.27,792
+PRD1355,Food,Front of Store,262.54,Yes,Medium,College Students,No,261.49,750
+PRD1356,Electronics,End-cap,264.44,No,Medium,College Students,No,294.06,845
+PRD1357,Clothing,End-cap,219.66,No,Low,Seniors,No,246.07,552
+PRD1358,Food,Front of Store,344.96,Yes,Medium,Seniors,No,336.86,260
+PRD1359,Electronics,Front of Store,71.23,Yes,Medium,Seniors,No,66.46,726
+PRD1360,Electronics,End-cap,498.09,Yes,Medium,Families,Yes,511.89,745
+PRD1361,Clothing,Front of Store,247.64,Yes,Medium,Families,Yes,278.28,903
+PRD1362,Food,Front of Store,376.31,No,Medium,Seniors,No,343.65,1137
+PRD1363,Food,Aisle,86.62,No,High,Young Adults,No,89.82,915
+PRD1364,Food,Aisle,453.91,No,Low,College Students,No,471.82,348
+PRD1365,Clothing,Front of Store,406.94,,Low,Young Adults,No,435.4,589
+PRD1366,Food,Front of Store,14.47,Yes,High,Young Adults,Yes,12.87,1339
+PRD1367,Food,Aisle,116.04,Yes,Medium,Seniors,No,123.55,805
+PRD1368,Electronics,Front of Store,492.52,No,High,Seniors,Yes,552.96,1170
+PRD1369,Electronics,End-cap,109.54,Yes,Medium,College Students,No,99.01,1471
+PRD1370,Clothing,Front of Store,,,Medium,Young Adults,Yes,14.6,396
+PRD1371,Food,Front of Store,254.79,Yes,Medium,Young Adults,Yes,290.82,979
+PRD1372,Electronics,End-cap,65.97,No,Low,Young Adults,Yes,59.66,353
+PRD1373,Clothing,Aisle,357.0,No,High,Young Adults,No,394.95,962
+PRD1374,Food,Front of Store,397.1,Yes,Medium,Families,Yes,396.18,565
+PRD1375,Clothing,Aisle,190.72,Yes,High,Seniors,Yes,176.26,852
+PRD1376,Food,Aisle,321.96,Yes,Medium,Families,Yes,357.77,651
+PRD1377,Electronics,Front of Store,386.77,Yes,Low,Seniors,No,380.42,705
+PRD1378,Food,Front of Store,313.45,No,High,Families,No,314.84,1262
+PRD1379,Food,Aisle,298.99,No,High,College Students,Yes,286.36,469
+PRD1380,Food,Front of Store,28.74,Yes,Low,Young Adults,Yes,29.54,610
+PRD1381,Food,Front of Store,58.52,No,Low,Seniors,Yes,52.61,330
+PRD1382,Clothing,Aisle,418.88,Yes,Low,Seniors,No,405.19,283
+PRD1383,Food,Aisle,28.88,,Medium,Seniors,No,32.95,514
+PRD1384,Clothing,End-cap,62.32,No,Medium,Families,Yes,57.8,635
+PRD1385,Food,Front of Store,224.94,Yes,High,Young Adults,No,235.52,2223
+PRD1386,Food,End-cap,66.18,Yes,Medium,Seniors,No,62.71,1028
+PRD1387,Clothing,Aisle,130.11,No,Low,College Students,Yes,140.78,225
+PRD1388,Electronics,Front of Store,352.42,Yes,High,College Students,No,313.39,971
+PRD1389,Electronics,Aisle,106.72,Yes,Medium,Young Adults,Yes,121.76,934
+PRD1390,Clothing,Front of Store,344.44,Yes,Low,Young Adults,Yes,339.66,888
+PRD1391,Food,Front of Store,9.61,Yes,Low,Young Adults,Yes,8.85,286
+PRD1392,Electronics,End-cap,213.33,,Medium,College Students,Yes,186.03,396
+PRD1393,Food,Aisle,54.99,No,High,Young Adults,Yes,49.54,1170
+PRD1394,Clothing,Front of Store,262.55,No,Medium,Seniors,Yes,264.11,737
+PRD1395,Clothing,End-cap,313.28,No,Medium,Families,Yes,297.96,517
+PRD1396,Electronics,Aisle,351.86,No,Low,College Students,No,386.58,446
+PRD1397,Electronics,End-cap,212.32,No,High,Families,Yes,207.92,219
+PRD1398,Food,Aisle,449.82,Yes,Medium,College Students,No,415.91,650
+PRD1399,Electronics,Front of Store,258.23,Yes,High,Seniors,No,267.31,1413
+PRD1400,Clothing,End-cap,310.76,Yes,High,Families,Yes,330.04,1917
+PRD1401,Clothing,End-cap,144.94,Yes,Low,Seniors,Yes,130.46,443
+PRD1402,Clothing,Front of Store,393.46,Yes,Low,Seniors,Yes,354.23,560
+PRD1403,Food,Aisle,251.38,No,Low,College Students,No,216.44,252
+PRD1404,Electronics,Front of Store,306.46,Yes,Medium,Seniors,Yes,328.19,923
+PRD1405,Food,End-cap,390.09,No,Medium,Seniors,Yes,409.26,563
+PRD1406,Food,Front of Store,416.59,No,High,College Students,Yes,413.42,789
+PRD1407,Electronics,End-cap,486.69,No,Medium,Young Adults,No,536.94,539
+PRD1408,Clothing,Front of Store,,Yes,Low,College Students,Yes,198.88,717
+PRD1409,Electronics,Aisle,207.83,No,Medium,Seniors,Yes,213.15,691
+PRD1410,Electronics,End-cap,84.38,Yes,High,College Students,Yes,93.7,1395
+PRD1411,Electronics,End-cap,276.33,Yes,Medium,Seniors,Yes,251.94,920
+PRD1412,Food,Aisle,455.63,No,Medium,Families,Yes,402.58,282
+PRD1413,Electronics,Front of Store,345.66,No,High,Young Adults,No,321.78,819
+PRD1414,Clothing,Aisle,242.93,No,High,Families,Yes,210.65,738
+PRD1415,Electronics,Front of Store,121.08,No,Medium,Families,Yes,122.21,1178
+PRD1416,Clothing,Aisle,11.31,Yes,Low,Young Adults,No,12.79,333
+PRD1417,Clothing,Aisle,49.06,Yes,Low,Families,Yes,42.28,654
+PRD1418,Clothing,End-cap,59.66,Yes,Low,Families,No,52.9,827
+PRD1419,Food,End-cap,289.21,No,Low,Seniors,No,285.06,531
+PRD1420,Food,Front of Store,249.58,Yes,Medium,Young Adults,No,282.07,1310
+PRD1421,Food,Aisle,474.98,Yes,Medium,College Students,No,448.78,722
+PRD1422,Electronics,Front of Store,390.87,Yes,High,Seniors,No,391.72,1437
+PRD1423,Food,Aisle,42.15,Yes,High,Young Adults,Yes,36.35,959
+PRD1424,Electronics,Aisle,363.17,Yes,Medium,Families,No,324.86,888
+PRD1425,Clothing,End-cap,452.87,No,Low,Families,Yes,518.98,716
+PRD1426,Electronics,Aisle,323.95,Yes,High,Seniors,Yes,369.15,871
+PRD1427,Clothing,End-cap,,Yes,High,Seniors,Yes,196.77,824
+PRD1428,Electronics,End-cap,488.76,Yes,Medium,Young Adults,Yes,555.01,940
+PRD1429,Food,Aisle,135.74,No,Medium,Seniors,Yes,141.41,417
+PRD1430,Clothing,Aisle,29.79,,Low,Seniors,Yes,33.08,377
+PRD1431,Electronics,Front of Store,407.52,Yes,Medium,Young Adults,Yes,401.99,1069
+PRD1432,Electronics,Front of Store,437.7,Yes,High,Seniors,No,439.75,1110
+PRD1433,Food,Front of Store,426.86,Yes,High,Young Adults,No,425.43,1154
+PRD1434,Food,End-cap,183.31,No,Low,Seniors,No,192.49,548
+PRD1435,Food,End-cap,340.0,Yes,Low,Seniors,No,303.24,799
+PRD1436,Electronics,End-cap,215.87,Yes,Low,Seniors,No,185.43,207
+PRD1437,Food,End-cap,62.37,No,Medium,Families,Yes,58.78,572
+PRD1438,Electronics,End-cap,426.37,Yes,Medium,Seniors,No,452.55,1064
+PRD1439,Food,End-cap,445.69,No,Low,Young Adults,Yes,405.83,666
+PRD1440,Electronics,Aisle,9.79,No,High,Families,No,10.3,703
+PRD1441,Clothing,Front of Store,73.51,Yes,High,Families,Yes,83.87,562
+PRD1442,Food,Front of Store,325.36,Yes,Medium,Seniors,No,285.72,925
+PRD1443,Clothing,Front of Store,167.69,,High,College Students,Yes,176.37,801
+PRD1444,Electronics,Aisle,447.79,No,Medium,Families,Yes,440.23,321
+PRD1445,Clothing,Front of Store,477.77,No,High,Young Adults,No,530.54,804
+PRD1446,Food,End-cap,137.81,,Medium,Seniors,Yes,124.46,661
+PRD1447,Food,Aisle,367.87,Yes,Medium,Young Adults,Yes,389.13,585
+PRD1448,Electronics,Aisle,189.45,No,High,College Students,No,208.67,279
+PRD1449,Food,Front of Store,174.65,Yes,High,Seniors,Yes,197.95,1633
+PRD1450,Clothing,End-cap,61.35,No,Medium,Young Adults,Yes,64.72,1064
+PRD1451,Food,Front of Store,203.12,No,High,Young Adults,No,202.95,1075
+PRD1452,Clothing,Aisle,,Yes,Low,Seniors,No,239.16,329
+PRD1453,Food,Front of Store,418.68,Yes,Medium,College Students,No,465.02,806
+PRD1454,Electronics,Aisle,346.5,No,High,Families,No,353.84,823
+PRD1455,Food,Aisle,241.73,,High,Families,No,207.67,884
+PRD1456,Electronics,Aisle,213.76,No,High,Seniors,Yes,241.4,990
+PRD1457,Food,End-cap,443.63,Yes,Low,Seniors,Yes,468.85,546
+PRD1458,Electronics,End-cap,87.56,,Medium,Seniors,No,92.2,1025
+PRD1459,Clothing,Front of Store,70.59,Yes,Low,Seniors,No,64.57,620
+PRD1460,Clothing,Front of Store,364.57,Yes,High,College Students,Yes,381.95,1849
+PRD1461,Clothing,Front of Store,490.88,Yes,Low,Young Adults,No,475.25,661
+PRD1462,Clothing,End-cap,422.95,No,Low,Young Adults,Yes,442.14,666
+PRD1463,Electronics,Front of Store,56.34,No,Medium,College Students,Yes,49.69,615
+PRD1464,Electronics,End-cap,456.06,No,Medium,Seniors,Yes,477.66,1095
+PRD1465,Clothing,Aisle,243.92,No,High,Families,No,280.47,926
+PRD1466,Clothing,Aisle,,No,Low,Seniors,No,247.78,259
+PRD1467,Clothing,End-cap,221.89,No,Medium,Young Adults,Yes,253.65,1094
+PRD1468,Food,End-cap,307.6,Yes,Low,Seniors,Yes,299.01,770
+PRD1469,Clothing,Aisle,390.69,No,Low,Young Adults,No,434.14,333
+PRD1470,Electronics,End-cap,307.62,No,Medium,Seniors,Yes,333.68,659
+PRD1471,Electronics,Aisle,431.98,No,Medium,Families,Yes,440.66,598
+PRD1472,Electronics,Front of Store,440.58,Yes,Medium,Young Adults,Yes,472.1,977
+PRD1473,Food,Aisle,365.0,Yes,High,Seniors,Yes,406.45,1135
+PRD1474,Food,Aisle,446.42,No,Medium,College Students,Yes,433.58,546
+PRD1475,Food,Front of Store,244.12,,Low,Seniors,No,231.45,824
+PRD1476,Food,End-cap,246.62,Yes,Medium,Families,Yes,259.02,1322
+PRD1477,Electronics,Front of Store,444.36,Yes,Medium,College Students,Yes,485.4,907
+PRD1478,Food,Aisle,223.14,Yes,High,Families,Yes,240.7,1375
+PRD1479,Food,Aisle,36.35,No,High,Seniors,Yes,39.6,569
+PRD1480,Food,Aisle,329.21,Yes,Low,College Students,No,322.85,509
+PRD1481,Clothing,Aisle,11.12,Yes,High,Young Adults,Yes,12.18,1654
+PRD1482,Electronics,Aisle,434.82,No,Low,College Students,Yes,385.28,327
+PRD1483,Food,Front of Store,264.78,No,High,College Students,No,268.31,738
+PRD1484,Clothing,Aisle,373.09,Yes,Low,Seniors,Yes,317.77,365
+PRD1485,Electronics,End-cap,363.27,No,Low,Young Adults,Yes,344.15,329
+PRD1486,Food,Front of Store,115.87,No,High,Young Adults,No,111.23,688
+PRD1487,Electronics,Front of Store,478.1,Yes,Low,College Students,Yes,463.21,485
+PRD1488,Electronics,Front of Store,437.21,,High,College Students,No,462.85,744
+PRD1489,Clothing,Aisle,261.95,Yes,Medium,College Students,Yes,253.19,653
+PRD1490,Food,Aisle,345.68,No,Medium,Young Adults,No,340.36,635
+PRD1491,Electronics,Front of Store,311.03,No,High,College Students,No,286.54,654
+PRD1492,Clothing,Aisle,219.26,Yes,Medium,Families,No,210.92,946
+PRD1493,Electronics,End-cap,364.69,No,Medium,Seniors,Yes,334.85,807
+PRD1494,Electronics,End-cap,243.56,No,High,Seniors,No,212.37,1374
+PRD1495,Clothing,Aisle,333.54,No,High,Seniors,No,343.89,662
+PRD1496,Electronics,Front of Store,322.5,Yes,High,College Students,No,338.77,1616
+PRD1497,Clothing,Aisle,78.58,Yes,Medium,Seniors,Yes,81.4,480
+PRD1498,Food,Aisle,414.09,No,Low,College Students,Yes,409.55,443
+PRD1499,Electronics,Aisle,,No,High,Seniors,No,430.46,788
+PRD1500,Food,Front of Store,308.39,,High,Young Adults,No,342.0,1154

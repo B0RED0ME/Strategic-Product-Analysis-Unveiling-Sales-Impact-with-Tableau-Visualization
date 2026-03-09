@@ -1,0 +1,163 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* Basic setup and variables */
+:root {
+    --primary-color: #4361ee;
+    --primary-hover: #3a0ca3;
+    --secondary-color: #7209b7;
+    --bg-light: #f8f9fa;
+    --text-dark: #2b2d42;
+    --border-radius: 1rem;
+    --transition-speed: 0.3s;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fafbfe;
+    color: var(--text-dark);
+}
+
+/* Typography styles */
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: -0.02em;
+}
+
+/* Utility Classes */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.transition-all {
+    transition: all var(--transition-speed) ease;
+}
+
+/* Animations */
+.animate-fade-in {
+    animation: fadeIn 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.animate-slide-up {
+    opacity: 0;
+    transform: translateY(30px);
+    animation: slideUp 1s cubic-bezier(0.2, 0.8, 0.2, 1) 0.3s forwards;
+}
+
+.animate-slide-up-delayed {
+    opacity: 0;
+    transform: translateY(30px);
+    animation: slideUp 1s cubic-bezier(0.2, 0.8, 0.2, 1) 0.6s forwards;
+}
+
+.fade-in {
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Component Interactions */
+.hover-scale {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hover-scale:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.hover-lift {
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.hover-lift:hover {
+    transform: translateY(-8px);
+}
+
+/* Custom Components */
+.hero {
+    min-height: 80vh;
+    background: linear-gradient(135deg, #4361ee 0%, #7209b7 100%);
+    /* Replace with actual image later if needed */
+    background-size: cover;
+    background-position: center;
+}
+
+.icon-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.feature-card:hover .icon-circle {
+    transform: scale(1.1);
+}
+
+.objective-card, .feature-card {
+    border: 1px solid rgba(0,0,0,0.05) !important;
+    background-color: white;
+}
+
+/* Upload Page Styles */
+.upload-area {
+    transition: all 0.3s ease;
+    border-color: #cbd5e1 !important;
+}
+
+.upload-area:hover {
+    border-color: var(--primary-color) !important;
+    background-color: rgba(67, 97, 238, 0.05) !important;
+}
+
+.form-control-file {
+    z-index: 10;
+}
+
+/* Navbar customization */
+.navbar {
+    background: rgba(43, 45, 66, 0.95) !important;
+    backdrop-filter: blur(10px);
+}
+
+.nav-link {
+    font-weight: 500;
+    margin: 0 5px;
+    position: relative;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 5px;
+    left: 50%;
+    background-color: var(--primary-color);
+    transition: all 0.3s ease;
+    transform: translateX(-50%);
+}
+
+.nav-link:hover::after, .nav-link.active::after {
+    width: 80%;
+}
+
+/* Custom Text Colors */
+.text-orange { color: #f97316; }
+.text-purple { color: #8b5cf6; }

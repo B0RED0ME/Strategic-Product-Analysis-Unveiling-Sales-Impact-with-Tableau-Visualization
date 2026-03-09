@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container py-5 my-5 fade-in">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card border-0 shadow-lg upload-card rounded-4 overflow-hidden">
+                <div class="card-header bg-primary text-white p-4 border-0">
+                    <h2 class="fw-bold mb-0 text-center"><i class="fa-solid fa-cloud-arrow-up me-2"></i> Upload Sales Data</h2>
+                    <p class="text-center text-white-50 mb-0 mt-2">Import your CSV dataset to begin the strategic analysis.</p>
+                </div>
+                <div class="card-body p-5 bg-white">
+                    <form method="POST" enctype="multipart/form-data" class="upload-form">
+                        
+                        <div class="upload-area border-2 border-dashed border-primary-subtle rounded-4 p-5 text-center bg-light hover-bg-light transition-all mb-4 position-relative">
+                            <i class="fa-solid fa-file-csv display-1 text-primary-subtle mb-3"></i>
+                            <h4 class="text-dark fw-bold">Drag and drop your file here</h4>
+                            <p class="text-muted small">or click to browse your files (CSV format only)</p>
+                            
+                            <input class="form-control form-control-file position-absolute top-0 start-0 w-100 h-100 opacity-0 cursor-pointer" 
+                                   type="file" 
+                                   id="file" 
+                                   name="file" 
+                                   accept=".csv" 
+                                   required>
+                        </div>
+                        
+                        <!-- Selected file name display (handled via JS) -->
+                        <div id="file-name-display" class="alert alert-secondary d-none d-flex align-items-center mb-4">
+                            <i class="fa-solid fa-check-circle text-success me-2 fs-5"></i>
+                            <span class="fw-semibold text-dark flex-grow-1" id="selected-file-name">filename.csv</span>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary btn-lg rounded-pill fw-bold py-3 shadow hover-scale">
+                                <i class="fa-solid fa-upload me-2"></i> Upload and Process Dataset
+                            </button>
+                        </div>
+                    </form>
+                    
+                    <div class="mt-4 pt-4 border-top text-center text-muted small">
+                        <i class="fa-solid fa-circle-info text-info me-1"></i>
+                        The dataset must contain the following columns: Product Name, Category, Store Location/Placement, Sales Revenue, Units Sold, Consumer Age Group, Consumer Gender, Purchase Frequency, and Store Traffic Data.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
